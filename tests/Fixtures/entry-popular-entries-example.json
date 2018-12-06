@@ -1,0 +1,942 @@
+{
+  "message": "",
+  "result": [
+    {
+      "id": 81336,
+      "author": {
+        "id": 98420,
+        "name": "Николай Чумаков",
+        "avatar_url": "https://leonardo.osnova.io/fb931bd4-7e82-13b7-b044-d9c8096df8e1/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 2,
+      "favoritesCount": 4,
+      "cover": null,
+      "date": 1543989925,
+      "dateRFC": "Wed, 05 Dec 2018 09:05:25 +0300",
+      "last_modification_date": 1543989925,
+      "hitsCount": 2104,
+      "intro": "«Оценочное мнение не может являться основанием для преследования», — заявили в подавшей жалобу партии «Яблоко».",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 36,
+        "summ": 36,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Прокуратура проверит главу «Аэрофлота» из-за лишения клиента бонусных миль",
+      "type": 1,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/98420\">Николай Чумаков</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"05.12.2018 09:05:25 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1543989925\" >вчера&nbsp;в&nbsp;09:05</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"81336\" data-value=\"2104\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">2&nbsp;104</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Прокуратура проверит главу «Аэрофлота» из-за лишения клиента бонусных <span class=\"entry_header__title__glued\">миль \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>«Оценочное мнение не может являться основанием для преследования», — заявили в подавшей жалобу партии «Яблоко».</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Московская межрегиональная транспортная прокуратура проверит генерального директора «Аэрофлота» Виталия Савельева. Партия «Яблоко» пожаловалась генпрокурору Юрию Чайке на то, что глава компании злоупотребляет полномочиями из-за лишения бонусных миль журналиста Мити Алешковского. Об этом <a href=\"https://www.kommersant.ru/doc/3820377\" rel=\"nofollow noopener\" target=\"_blank\">сообщил</a> «Коммерсант». </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>«Человек допустил оскорбительные высказывания, и на основании правил программы \"Аэрофлот Бонус\" его лишили миль», — <a href=\"https://www.rbc.ru/society/04/12/2018/5c06d5ab9a794747e3964790?ref=vc.ru\" rel=\"nofollow noopener\" target=\"_blank\">ответили</a> в «Аэрофлоте» на претензии «Яблока». В партии с этим не согласны: «Оценочное мнение не может являться основанием для преследования», — согласно статье 201 УК РФ (Злоупотребления полномочиями). </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В обращении партии также говорится, что <mark class=\"cdx-marked-text marked-text\">«не допускается использование лицом, выполняющим управленческие функции в коммерческой организации, своих полномочий вопреки законным интересам этой организации и в целях извлечения выгод и преимуществ для себя»</mark>.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Конфликт между «Аэрофлотом» и Митей Алешковским <a href=\"https://tjournal.ru/flood/80174-aeroflot-lishil-klienta-platinovogo-urovnya-bonusov-on-rasskazal-v-tvittere-o-zaprete-na-telefony-v-kompanii\" rel=\"nofollow noopener\" target=\"_blank\">начался</a> в ноябре 2018 года. Его лишили платинового статуса за публикацию документа компании в соцсетях с комментарием «Савельев окончательно головой поехал». Журналист несколько раз <a href=\"https://tjournal.ru/tabloid/80325-klient-kotorogo-aeroflot-lishil-bonusov-publichno-izvinilsya-pered-gendirektorom-aviakompanii\" rel=\"nofollow noopener\" target=\"_blank\">приносил</a> публичные извинения, но в авиакомпании отказывались их принимать. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8\">#авиакомпании</a> <a href=\"https://tjournal.ru/tag/%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%8B\">#скандалы</a> <a href=\"https://tjournal.ru/tag/%D0%B0%D1%8D%D1%80%D0%BE%D1%84%D0%BB%D0%BE%D1%82\">#аэрофлот</a> <a href=\"https://tjournal.ru/tag/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8\">#новости</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/2caae5a7-2a0d-0e01-e140-09c5bce9c2f7/",
+        "https://leonardo.osnova.io/304db921-00ce-2cd8-651d-cdc7402aba3e/",
+        "https://leonardo.osnova.io/10903ab1-682c-2cd7-e8f1-456f97d3f1ef/",
+        "https://leonardo.osnova.io/b763bc54-c32a-07d3-5197-e92ca711a380/",
+        "https://leonardo.osnova.io/779ed2e7-f5ef-2360-b88d-e2672c9a024e/",
+        "https://leonardo.osnova.io/11c41d3d-af55-b23a-226d-8d483c5440c6/",
+        "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/",
+        "https://leonardo.osnova.io/fb71e361-a050-2793-70e1-5963017e5b77/",
+        "https://leonardo.osnova.io/cf9fa078-5237-411d-83ca-cd75daab0218/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/b020149d-bd41-9531-9cee-69026f7b14f3/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": "https://leonardo.osnova.io/audio/ddf84f20-ddf9-745a-332d-a8ac82a869fb/1ec6beb256daf4e78d76595c110863c4.mp3"
+    },
+    {
+      "id": 79949,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 40,
+      "favoritesCount": 6,
+      "cover": null,
+      "date": 1542270363,
+      "dateRFC": "Thu, 15 Nov 2018 11:26:03 +0300",
+      "last_modification_date": 1542272169,
+      "hitsCount": 9560,
+      "intro": "Закон будет применяться с 1 января 2019 года в Москве, Московской и Калужской областях, а также в республике Татарстан.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 44,
+        "summ": 44,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [
+        {
+          "id": 72808,
+          "date": 1530016944,
+          "dateRFC": "Tue, 26 Jun 2018 15:42:24 +0300",
+          "title": "Путин одобрил тестирование налогов для самозанятых в четырёх регионах России",
+          "badges": []
+        },
+        {
+          "id": 46392,
+          "date": 1500031774,
+          "dateRFC": "Fri, 14 Jul 2017 14:29:34 +0300",
+          "title": "Госдума в третьем чтении приняла закон о деятельности самозанятых граждан",
+          "badges": []
+        }
+      ],
+      "title": "Госдума приняла в третьем чтении законопроект о введении налога для самозанятых",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"15.11.2018 11:26:03 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1542270363\" >15&nbsp;ноя&nbsp;в&nbsp;11:26</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"79949\" data-value=\"9560\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">9&nbsp;560</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Госдума приняла в третьем чтении законопроект о введении налога для <span class=\"entry_header__title__glued\">самозанятых \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Закон будет применяться с 1 января 2019 года в Москве, Московской и Калужской областях, а также в республике Татарстан.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Госдума приняла в третьем, окончательном, чтении законопроект, который вводит налог для самозанятых граждан. Прямая трансляция <a href=\"http://duma.gov.ru/multimedia/video/stream/\" rel=\"nofollow noopener\" target=\"_blank\">велась</a> на сайте парламента.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Согласно законопроекту, с 1 января 2019 года до 31 декабря 2028 года в Москве, Московской и Калужской областях, а также в Татарстане будет введён налог на профессиональный доход. Переход на новую систему будет добровольным, в течение 10 лет условия эксперимента не будут меняться.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Закон устанавливает ставку налога в 4% для тех, кто оказывает услуги и продаёт товары физическим лицам, и в 6% — для тех, кто оказывает услуги юридическим лицам и индивидуальным предпринимателям. 1,5% из них пойдут в Фонд обязательного медицинского страхования, от уплаты других страховых взносов самозанятые освобождены. Закон будет распространяться на тех, кто зарабатывает не более 2,4 миллионов рублей в год или 200 тысяч рублей в месяц.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Если человек работает в нескольких регионах, в том числе включённых в эксперимент, он сможет перейти на специальный налоговый режим и выбрать регион, который участвует в эксперименте. Менять регион ведения деятельности можно раз в год.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Самозанятые должны будут зарегистрироваться в ФНС, но они смогут сделать это через специальное приложение «Мой налог» для компьютеров и смартфонов, без визита в налоговую, или же подать заявление через банк, в котором открыт счёт. Кроме того, самозанятые будут платить налоги по упрощённой процедуре — налоговая инспекция сама рассчитает сумму налога на основании данных о продажах, которые гражданин передаст через «Мой налог». Выплачивать налог необходимо не позднее 25 числа каждого месяца.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Как <a href=\"https://vc.ru/legal/50897-gosduma-odobrila-specialnyy-nalogovyy-rezhim-dlya-samozanyatyh-i-smyagchila-nakazanie-za-neuplatu-nalogov?from=rss\" rel=\"nofollow noopener\" target=\"_blank\">отметило</a> vc.ru, самозанятые могут сняться с нового налогового режима в любой момент. В этом случае налоговая инспекция должна снять гражданина с учёта на следующий день после его заявления.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Закон о деятельности самозанятых граждан был <a href=\"https://tjournal.ru/46392-gosduma-v-tretem-chtenii-prinyala-zakon-o-deyatelnosti-samozanyatyh-grazhdan\" rel=\"nofollow noopener\" target=\"_blank\">принят</a> Госдумой в июле 2017 года. Председатель Комитета Государственной Думы по государственному строительству и законодательству Павел Крашенинников заявил, что это исключило возможность признания деятельности самозанятых граждан незаконным предпринимательством.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0\">#политика</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/aacfc0dc-7020-89a4-d77b-f9eca63f43f2/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/04fd57f8-a4d5-cb5c-76dc-526e16083194/",
+        "https://leonardo.osnova.io/fb71e361-a050-2793-70e1-5963017e5b77/",
+        "https://leonardo.osnova.io/3e87d600-7341-f324-c72c-b6e85112de47/",
+        "https://leonardo.osnova.io/d14cb00e-6b71-a23f-7e1a-3d49fa97d0c7/",
+        "https://leonardo.osnova.io/19256b04-88b6-c022-7191-c337cae78c00/",
+        "https://gif.cmtt.space/3/user-userpic/8d/fe/fa/e7dc6cf13f8c3e.jpg",
+        "https://leonardo.osnova.io/887ded22-cde6-807d-fe84-f09478e694e1/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/f96aeec2-64d4-aece-4ebe-01b5207455c0/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 81358,
+      "author": {
+        "id": 2216,
+        "name": "Сергей Звезда",
+        "avatar_url": "https://leonardo.osnova.io/4918f370-7312-cccd-72c3-8ac3672e5584/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 27,
+      "favoritesCount": 1,
+      "cover": {
+        "additionalData": {
+          "size": 144476,
+          "type": "jpg",
+          "uuid": "b500d809-b3f0-e93f-935a-3595aba647e0"
+        },
+        "size": {
+          "width": 902,
+          "height": 600
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/b500d809-b3f0-e93f-935a-3595aba647e0/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/b500d809-b3f0-e93f-935a-3595aba647e0/",
+        "size_simple": "big"
+      },
+      "date": 1544004405,
+      "dateRFC": "Wed, 05 Dec 2018 13:06:45 +0300",
+      "last_modification_date": 1544005155,
+      "hitsCount": 3369,
+      "intro": "Он оказался невиновным в растрате бюджетных средств.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 39,
+        "summ": 39,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "СК спустя год закрыл уголовное дело пресс-секретаря Роскомнадзора Ампелонского",
+      "type": 1,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/2216\">Сергей Звезда</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"05.12.2018 13:06:45 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1544004405\" >вчера&nbsp;в&nbsp;13:06</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"81358\" data-value=\"3369\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">3&nbsp;369</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            СК спустя год закрыл уголовное дело пресс-секретаря Роскомнадзора <span class=\"entry_header__title__glued\">Ампелонского \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Он оказался невиновным в растрате бюджетных средств. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 902px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"902\"\n    data-image-height=\"600\"\n    data-image-max-width=\"902\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/b500d809-b3f0-e93f-935a-3595aba647e0/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.5203%;background-color: #4e4a38;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Вадим Ампелонский.                </span>\n                                        <span class=\"image-caption__author\">\n                    Фото Сергея Киселёва, агентство «Москва»                </span>\n                    </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Следственный комитет России прекратил уголовное дело о растрате против пресс-секретаря Роскомнадзора Вадима Ампелонского, <a href=\"https://tass.ru/proisshestviya/5873432\" rel=\"nofollow noopener\" target=\"_blank\">сообщило</a> ТАСС со ссылкой на источник, близкий к следствию. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Причиной стало отсутствие состава преступления. «Мы сумели доказать, что Ампелонский ни в чём не виновен», — <a href=\"https://www.interfax.ru/russia/640862\" rel=\"nofollow noopener\" target=\"_blank\">сказал</a> «Интерфаксу» адвокат Ампелонского Сергей Седаков. Также СК закрыл уголовное дело в отношении нескольких других фигурантов дела, но не уточнил их имена.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Дело об особо крупной растрате в Роскомнадзоре <a href=\"https://tjournal.ru/flood/60486-ampelonskiy-i-moshennichestvo-chto-my-znaem-o-dele-roskomnadzora\" rel=\"nofollow noopener\" target=\"_blank\">возбудили</a> в сентябре 2017 года. Следствие предположило, что с 2012 по 2017 годы сотрудники ведомства получали зарплаты нанятых, но не работавших людей на общую сумму в 58 миллионов рублей. Ампелонскому вменяли два эпизода на шесть миллионов рублей. Позднее дело переквалифицировали с мошенничества (статья 159 УК РФ) на растрату (статья 160). Никто из обвиняемых вину не признал. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Ампелонский находился под домашним арестом до конца сентября 2018 года, после чего вышел на свободу под подписку о невыезде. 27 сентября он <a href=\"https://tass.ru/proisshestviya/5612461\" rel=\"nofollow noopener\" target=\"_blank\">вернулся</a> на работу в ведомство.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B4%D0%B5%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D0%B4%D0%B7%D0%BE%D1%80%D0%B0\">#делороскомнадзора</a> <a href=\"https://tjournal.ru/tag/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8\">#новости</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/37356813-9dae-0870-68d9-33b59549fa9c/",
+        "https://leonardo.osnova.io/962944a6-dbe2-83cf-9ee7-97dd8d347037/",
+        "https://leonardo.osnova.io/f4ff10ec-5ca7-5fa5-8bcf-e9ef5180f290/",
+        "https://leonardo.osnova.io/3e87d600-7341-f324-c72c-b6e85112de47/",
+        "https://leonardo.osnova.io/b020149d-bd41-9531-9cee-69026f7b14f3/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/aacfc0dc-7020-89a4-d77b-f9eca63f43f2/",
+        "https://leonardo.osnova.io/60b07905-a33c-aec6-51f1-a6d8d72c6b32/",
+        "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/",
+        "https://leonardo.osnova.io/90380038-e30a-5f38-b11e-a09f46e03258/",
+        "https://leonardo.osnova.io/2324efcb-78b9-8665-c1d5-e991e7ba9eae/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": "https://leonardo.osnova.io/audio/ce83c107-1d99-1421-4ffd-a91105b0fbda/d67110b8ef769c621bd0071ca7fbc5e4.mp3"
+    },
+    {
+      "id": 80693,
+      "author": {
+        "id": 93912,
+        "name": "Roman Persianinov",
+        "avatar_url": "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 151,
+      "favoritesCount": 10,
+      "cover": {
+        "additionalData": {
+          "size": 101282,
+          "type": "jpg",
+          "uuid": "5a16b659-2355-f016-c22c-65c57cea91c3"
+        },
+        "size": {
+          "width": 1200,
+          "height": 800
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/5a16b659-2355-f016-c22c-65c57cea91c3/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/5a16b659-2355-f016-c22c-65c57cea91c3/",
+        "size_simple": "big"
+      },
+      "date": 1543422372,
+      "dateRFC": "Wed, 28 Nov 2018 19:26:12 +0300",
+      "last_modification_date": 1543423013,
+      "hitsCount": 51514,
+      "intro": "Мать одного из осуждённых узнала о произошедшем только после того, как приехала к сыну на свидание.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 119,
+        "summ": 119,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [
+        {
+          "id": 43619,
+          "date": 1493193596,
+          "dateRFC": "Wed, 26 Apr 2017 10:59:56 +0300",
+          "title": "Волна казней впервые за 12 лет",
+          "badges": []
+        },
+        {
+          "id": 49236,
+          "date": 1388430015,
+          "dateRFC": "Mon, 30 Dec 2013 23:00:15 +0400",
+          "title": "Молчать и расстреливать",
+          "badges": []
+        },
+        {
+          "id": 19406,
+          "date": 1450274968,
+          "dateRFC": "Wed, 16 Dec 2015 17:09:28 +0300",
+          "title": "Почему смертная казнь — это долго, дорого и плохо",
+          "badges": []
+        }
+      ],
+      "title": "Двух белорусов казнили за убийства и махинации с квартирами. Вопреки обращению в ООН и жалобам правозащитников",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/93912\">Roman Persianinov</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"28.11.2018 19:26:12 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1543422372\" >28&nbsp;ноя&nbsp;в&nbsp;19:26</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"80693\" data-value=\"51514\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">51&nbsp;514</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Двух белорусов казнили за убийства и махинации с квартирами. Вопреки обращению в ООН и жалобам <span class=\"entry_header__title__glued\">правозащитников \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Мать одного из осуждённых узнала о произошедшем только после того, как приехала к сыну на свидание.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 1200px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"1200\"\n    data-image-height=\"800\"\n    data-image-max-width=\"1200\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/5a16b659-2355-f016-c22c-65c57cea91c3/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6667%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Семён Бережной, приговорённый к смертной казни в июле 2017 года. Фото <a href=\"https://www.tut.by/\" rel=\"nofollow noopener\" target=\"_blank\">Tut.by </a>                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>27 и 28 ноября родственники Семёна Бережного и Игоря Гершанкова <a href=\"https://news.tut.by/society/573879.html\" rel=\"nofollow noopener\" target=\"_blank\">получили уведомления</a> о том, что смертный приговор по их делу приведён в исполнение. Их приговорили к высшей мере наказания за убийство шести человек и махинации с квартирами жертв. Как следует из материалов дела суда, с 2009 по 2015 годы осуждённые в составе группы «чёрных риелторов» (всего в ней участвовали четверо человек) уговаривали жителей Могилёвской области продать или разменять жильё, а затем убивали.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>На процессе подсудимые <a href=\"https://news.tut.by/society/573879.html\" rel=\"nofollow noopener\" target=\"_blank\">утверждали</a>, что из них силой выбили признательные показания, а также жаловались на оговор со стороны подельников. Несмотря на это, в июле 2017 года Бережного и Гершанкова приговорили к смертной казни, а двое других участников группы получили по 22 и 24 года тюрьмы. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 1200px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"1200\"\n    data-image-height=\"800\"\n    data-image-max-width=\"1200\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/b1c56542-d490-a1dc-8ed7-007a8fae5a0b/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6667%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Игорь Гершанков, приговорённый к смертной казни в июле 2017 года. Фото <a href=\"https://www.tut.by/\" rel=\"nofollow noopener\" target=\"_blank\">Tut.by </a>                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Белоруссия — единственная страна в Европе, где действует смертная казнь. Она назначается за особо тяжкие преступления, в том числе терроризм, убийство, захват власти, теракт, убийство сотрудника внутренних органов или госизмену. Приговор суда приводится в исполнение через расстрел: осуждённый встаёт на колени и ему стреляют в затылок из пистолета. Как <a href=\"https://meduza.io/feature/2018/02/02/otbyl-po-prigovoru\" rel=\"nofollow noopener\" target=\"_blank\">рассказывал</a> «Медузе» бывший начальник СИЗО № 1 в Минске Олег Алкаев, в редких случаях ему приходилось делать два или даже три выстрела, если врач фиксировал сердцебиение. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Неизвестно, когда именно состоялась казнь Бережного и Гершанкова — как правило, свидетельства о смерти приходят родственникам через какое-то время (это происходит по-разному). В них сообщается, что осуждённый «убыл по приговору». Из-за задержки с доставкой утром 28 ноября в СИЗО приехала Мать Гершанкова — на днях семья запланировала свидание с ним, так как он не отвечал на письма в течение месяца.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            <h2>\n    Казнь вопреки просьбе правозащитников</h2>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В июне 2018 года Комитет ООН по правам человека <a href=\"https://news.tut.by/society/596993.html\" rel=\"nofollow noopener\" target=\"_blank\">зарегистрировал</a> обращение Бережного с просьбой приостановить исполнение приговора. Вскоре исполнение действительно приостановили. Это дало правозащитникам время для действий, так как по формальным правилам приговор не должны исполнять, пока идёт рассмотрение обращения в ООН. Однако, как <a href=\"https://news.tut.by/society/617057.html?utm_source=news.tut.by&utm_medium=news-bottom-block&utm_campaign=relevant_news\" rel=\"nofollow noopener\" target=\"_blank\">отметило</a> местное издание Tut.by, белорусские власти обычно не следуют этому принципу. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>СМИ ничего не писали об отмене приостановки исполнения приговора, поэтому новости о казни Бережного и Гершанкова оказались неожиданностью для правозащитников. Международная правозащитная организация Amnesty International <a href=\"https://twitter.com/AmnestyEECA/status/1067483581767917568\" rel=\"nofollow noopener\" target=\"_blank\">осудила</a> казнь, напомнив, что ещё несколько недель назад члены организации общались с властями по поводу отмены смертного приговора. Евросоюз также <a href=\"https://news.tut.by/economics/617199.html\" rel=\"nofollow noopener\" target=\"_blank\">осудил</a> казнь приговорённых, указав на то, что высшая мера наказания нарушает право на жизнь, закреплённое во <a href=\"http://www.un.org/ru/documents/decl_conv/declarations/declhr.shtml\" rel=\"nofollow noopener\" target=\"_blank\">Всеобщей декларации прав человека</a>.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В начале ноября координатор Amnesty International по Белоруссии Айша Юнг <a href=\"https://belaruspartisan.by/politic/446400/\" rel=\"nofollow noopener\" target=\"_blank\">говорила</a>, что отмена практики высшей меры наказания зависит от действий политических лидеров (Александр Лукашенко выступает за сохранение смертной казни). Она пояснила, что в этом случае нельзя полагаться на референдум: «Как показывает история, большинство населения выступает за то, чтобы сохранить смертную казнь». Всего за последние 20 лет в Белоруссии <a href=\"https://www.newsru.com/world/27nov2018/berezhnoy.html\" rel=\"nofollow noopener\" target=\"_blank\">расстреляли</a> более 400 приговорённых, в том числе четырёх человек в 2016 году и двоих в 2017 году. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0\">#политика</a> <a href=\"https://tjournal.ru/tag/%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F\">#происшествия</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/bd44037c-b41b-ae9d-fd41-d478172f42ea/",
+        "https://leonardo.osnova.io/304db921-00ce-2cd8-651d-cdc7402aba3e/",
+        "https://leonardo.osnova.io/304db921-00ce-2cd8-651d-cdc7402aba3e/",
+        "https://leonardo.osnova.io/f4ff10ec-5ca7-5fa5-8bcf-e9ef5180f290/",
+        "https://leonardo.osnova.io/60b07905-a33c-aec6-51f1-a6d8d72c6b32/",
+        "https://leonardo.osnova.io/f96aeec2-64d4-aece-4ebe-01b5207455c0/",
+        "https://leonardo.osnova.io/6bb48873-f6be-4b65-c115-deaf9ca1cab0/",
+        "https://leonardo.osnova.io/2324efcb-78b9-8665-c1d5-e991e7ba9eae/",
+        "https://leonardo.osnova.io/39cf0889-fb7d-6177-671b-f28a03a5071e/",
+        "https://leonardo.osnova.io/fb71e361-a050-2793-70e1-5963017e5b77/",
+        "https://leonardo.osnova.io/c344aba6-dcf2-7f9c-e120-25b3446b4e58/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 79649,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 53,
+      "favoritesCount": 1,
+      "cover": null,
+      "date": 1541745341,
+      "dateRFC": "Fri, 09 Nov 2018 09:35:41 +0300",
+      "last_modification_date": 1541745491,
+      "hitsCount": 9274,
+      "intro": "Вячеслав Цеповяз утверждает, что достоверность снимков никак не установлена.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 39,
+        "summ": 39,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Член «банды Цапков» о фотографиях, на которых он ест крабов и икру",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"09.11.2018 09:35:41 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1541745341\" >9&nbsp;ноя&nbsp;в&nbsp;09:35</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"79649\" data-value=\"9274\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">9&nbsp;274</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Член «банды Цапков» о фотографиях, на которых он ест крабов и <span class=\"entry_header__title__glued\">икру \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Вячеслав Цеповяз утверждает, что достоверность снимков никак не установлена.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Член «банды Цапков» Вячеслав Цеповяз обратился к СМИ с заявлением о фотографиях, на которых он в колонии ест крабов, красную икру и жарит шашлыки. Заключённый <a href=\"https://www.rbc.ru/society/08/11/2018/5be43d949a79476ca3d1a613?utm_source=yxnews&utm_medium=desktop\" rel=\"nofollow noopener\" target=\"_blank\">передал</a> обращение РБК через адвокатов.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Цеповяз утверждает, что достоверность фотографий не установлена. По его словам, «несидящее» общество отказывает заключённым в праве на «нормальное» питание.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<blockquote class=\"entry-quote entry-quote--default entry-quote--text-small\">\n\n    <div class=\"entry-quote__content\">\n\n        <svg class=\"icon icon--entry_quote\" width=\"39\" height=\"28\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_quote\"></use></svg>\n        <div class=\"entry-quote__text\">\n            <p><p> Это получается, что несидящее общество отказывает сидящей половине в праве нормально питаться, питаться деликатесами. Может, был какой-то повод и заключённые совместными усилиями устроили себе праздник. </p></p>\n        </div>\n\n        \n            <div class=\"entry-quote__author\">\n\n                                    \n<img\n    class=\"andropov_image entry-quote__author-photo\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/ab04e0a1-3955-7365-bf64-c6d24f94fa3b\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                \n                <div class=\"entry-quote__author-content\">\n                                            <div class=\"entry-quote__author-name\">\n                            Вячеслав Цеповяз                        </div>\n                    \n                                            <div class=\"entry-quote__author-job\">\n                            член «банды Цапков»                        </div>\n                                    </div>\n            </div>\n\n            </div>\n\n</blockquote>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Заключённый связывает публикацию фотографий с разводом и разделом имущества с бывшей женой Натальей Стришней. По его мнению, эти факторы спровоцировали её на то, чтобы «демонизировать» его и оказать давление на суд.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Цеповяз отбывает наказание с 2013 года — его приговорили к 20 годам лишения свободы за <a href=\"http://www.aif.ru/society/law/uzhas_kushchevskoy_istoriya_bandy_stavshey_vlastyu_v_otdelno_vzyatoy_stanice\" rel=\"nofollow noopener\" target=\"_blank\">убийство</a> 12 человек в станице Кущёвской Краснодарского края, в том числе четверых детей. Самой младшей девочке было девять месяцев. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Он сделал фотографии с нетипичной для тюрем едой ещё в 2015 году, после чего прислал их уже бывшей жене. Заместитель директора ФСИН Валерий Максименко сообщил, что ведомство подтвердило факт «сытной и красивой» жизни Цеповяза в 2017 году. Тогда не было принято никаких мер. Фотографии <a href=\"https://tjournal.ru/79601-kak-nakazat-ne-nakazyvaya-na-primere-chlena-bandy-capkov-kotoryy-est-v-kolonii-ikru-i-krabov\" rel=\"nofollow noopener\" target=\"_blank\">распространились</a> с конца октября, когда их опубликовала «Комсомольская правда». Однако снимки <a href=\"http://www.mzk1.ru/2018/08/nasledie-capka-i-zhizn-v-nevole-cepovyaza/\" rel=\"nofollow noopener\" target=\"_blank\">находятся</a> в открытом доступе с августа.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>С начала ноября 2018 года ФСИН <a href=\"https://tjournal.ru/79601-kak-nakazat-ne-nakazyvaya-na-primere-chlena-bandy-capkov-kotoryy-est-v-kolonii-ikru-i-krabov\" rel=\"nofollow noopener\" target=\"_blank\">начала</a> проверку, СК потребовал также провести проверку и <a href=\"https://tjournal.ru/79647-na-sotrudnikov-kolonii-gde-chlen-bandy-capkov-el-krabov-i-krasnuyu-ikru-vozbudili-delo\" rel=\"nofollow noopener\" target=\"_blank\">возбудил</a> уголовное дело против сотрудников колонии, где сидел Цеповяз. Заключённого отправили в штрафной изолятор и запретили работать на пасеке, переведя в нерабочий отряд. Адвокат Цеповяза Эльбрус Муртазов назвал снимки монтажом ради «демонизации» подзащитного.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%8B\">#скандалы</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/90380038-e30a-5f38-b11e-a09f46e03258/",
+        "https://leonardo.osnova.io/c5881ee1-b2bd-e0ae-a463-43baa3ad11d4/",
+        "https://leonardo.osnova.io/d79cf375-e931-1e63-4ca2-26c547e67978/",
+        "https://leonardo.osnova.io/9a69c392-2678-ba3d-5fc8-71f6fad188ec/",
+        "https://leonardo.osnova.io/6a8fd8c5-b154-d7ec-5e4c-bf8f05a87ad8/",
+        "https://leonardo.osnova.io/fe1bb3ba-6fa6-574c-b379-596a6f3ed897/",
+        "https://leonardo.osnova.io/779ed2e7-f5ef-2360-b88d-e2672c9a024e/",
+        "https://leonardo.osnova.io/90380038-e30a-5f38-b11e-a09f46e03258/",
+        "https://leonardo.osnova.io/90380038-e30a-5f38-b11e-a09f46e03258/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/d14cb00e-6b71-a23f-7e1a-3d49fa97d0c7/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 80278,
+      "author": {
+        "id": 98420,
+        "name": "Николай Чумаков",
+        "avatar_url": "https://leonardo.osnova.io/fb931bd4-7e82-13b7-b044-d9c8096df8e1/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 56,
+      "favoritesCount": 1,
+      "cover": null,
+      "date": 1542783405,
+      "dateRFC": "Wed, 21 Nov 2018 09:56:45 +0300",
+      "last_modification_date": 1542783561,
+      "hitsCount": 4897,
+      "intro": "Через месяц после массовой стрельбы в Керчи, которую устроил 18-летний ученик колледжа.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 28,
+        "summ": 28,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Яровая разработала законопроект о повышении возраста покупки оружия с 18 до 21 года",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/98420\">Николай Чумаков</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"21.11.2018 09:56:45 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1542783405\" >21&nbsp;ноя&nbsp;в&nbsp;09:56</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"80278\" data-value=\"4897\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">4&nbsp;897</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Яровая разработала законопроект о повышении возраста покупки оружия с 18 до 21 <span class=\"entry_header__title__glued\">года \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Через месяц после массовой стрельбы в Керчи, которую устроил 18-летний ученик колледжа.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Вице-спикер Госдумы Ирина Яровая предложила поднять возраст покупки огнестрельного гладкоствольного и охотничьего оружия с 18 до 21 года. Как <a href=\"https://tass.ru/obschestvo/5816349\" rel=\"nofollow noopener\" target=\"_blank\">сообщил</a> ТАСС, документ поддержали представители профильных комитетов и направили в экспертный совет «Единой России». </p>\n\n            \n            \n                \n            \n        \n            \n            \n<ul>\n\n    \n        <li>По словам Яровой, для получения лицензии на оружие появятся три дополнительных требования. Справка и характеристика с места работы, справка о доходах и налоговая декларация и короткое собеседование;</li>\n\n    \n        <li>Помимо этого, документом, подтверждающим размер дохода, может выступать гарантийное письмо от родителей. Депутат добавила, что собеседование по лицензии будут проводить федеральные исполнительные органы, например Росгвардия;</li>\n\n    \n        <li>В пресс-службе Госдумы отметили, что требования не коснутся тех, кто служил в армии, для кого охота «является традиционным образом жизни», тех, кому уже выдали лицензию и кому больше 21 года;</li>\n\n    \n        <li>«Лишь огнестрельное гладкоствольное длинноствольное оружие — охотничье оружие и оружие для самообороны — обладает повышенной убойной силой, но при этом не требует никаких дополнительных оснований, кроме охотничьего билета», — пояснила Яровая;</li>\n\n    \n        <li>20 ноября депутаты Госсовета Татарстана также <a href=\"https://tass.ru/obschestvo/5809576\" rel=\"nofollow noopener\" target=\"_blank\">подготовили</a> законопроект повышающий возраст для ношения оружия с 18 до 21 года. Одно из отличий от документа Яровой — обязательство к тем, кто уже получил лицензию, проходить проверку раз в пять лет;</li>\n\n    \n        <li>Власти <a href=\"https://tjournal.ru/78649-rosgvardiya-predlozhila-uzhestochit-oborot-oruzhiya-posle-strelby-v-kerchi\" rel=\"nofollow noopener\" target=\"_blank\">начали обсуждать</a> ужесточение оборота оружия после массового убийства в техколледже Керчи. 18-летний студент, который незадолго до инцидента получил разрешение на оружие, <a href=\"https://tjournal.ru/78505-chislo-pogibshih-v-kolledzhe-kerchi-vyroslo-do-20-chelovek-sredi-nih-11-nesovershennoletnih\" rel=\"nofollow noopener\" target=\"_blank\">убил</a> 20 человек, 44 получили ранения.</li>\n\n    \n</ul>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5\">#оружие</a> <a href=\"https://tjournal.ru/tag/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0\">#политика</a> </p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/7b8f4e4c-a14f-ca04-58c1-047a9d2d5063/",
+        "https://leonardo.osnova.io/10903ab1-682c-2cd7-e8f1-456f97d3f1ef/",
+        "https://leonardo.osnova.io/39cf0889-fb7d-6177-671b-f28a03a5071e/",
+        "https://leonardo.osnova.io/d901a02a-284f-9052-e8fc-2cf8d1f7ac51/",
+        "https://leonardo.osnova.io/3a03dd4c-dca8-1ba9-b376-19c361dbd36b/",
+        "https://leonardo.osnova.io/b763bc54-c32a-07d3-5197-e92ca711a380/",
+        "https://leonardo.osnova.io/9e9ca2f5-0e57-0385-ba6a-13df476dfb5b/",
+        "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/",
+        "https://leonardo.osnova.io/9a69c392-2678-ba3d-5fc8-71f6fad188ec/",
+        "https://leonardo.osnova.io/451a3cce-3f72-ac1f-1b78-46d49556650f/",
+        "https://gif.cmtt.space/3/user-userpic/a7/9a/9d/128b6a99c4363f.jpg"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 80431,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 23,
+      "favoritesCount": 10,
+      "cover": {
+        "additionalData": {
+          "size": 51591,
+          "type": "jpg",
+          "uuid": "cc8c5013-bba7-4403-078c-ad35f25ab777"
+        },
+        "size": {
+          "width": 640,
+          "height": 480
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/cc8c5013-bba7-4403-078c-ad35f25ab777/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/cc8c5013-bba7-4403-078c-ad35f25ab777/",
+        "size_simple": "big"
+      },
+      "date": 1542991234,
+      "dateRFC": "Fri, 23 Nov 2018 19:40:34 +0300",
+      "last_modification_date": 1543061046,
+      "hitsCount": 23162,
+      "intro": "Власова обвинили в незаконных действиях, которые сделали посторонние личности через его прокси-сервера.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 78,
+        "summ": 78,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Создатели альтернативного клиента для «ВКонтакте» Kate Mobile сообщили об аресте своего разработчика Фёдора Власова",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"23.11.2018 19:40:34 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1542991234\" >23&nbsp;ноя&nbsp;в&nbsp;19:40</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"80431\" data-value=\"23162\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">23&nbsp;162</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Создатели альтернативного клиента для «ВКонтакте» Kate Mobile сообщили об аресте своего разработчика Фёдора <span class=\"entry_header__title__glued\">Власова \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Власова обвинили в незаконных действиях, которые сделали посторонние личности через его прокси-сервера.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2 image-wrapper-2--thin\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 640px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"640\"\n    data-image-height=\"480\"\n    data-image-max-width=\"640\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/cc8c5013-bba7-4403-078c-ad35f25ab777/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 75.0019%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Фёдор Власов. Фото со страницы «ВКонтакте»                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Администраторы сообщества стороннего Android-клиента для «ВКонтакте» Kate Mobile <a href=\"https://vk.com/wall-26062647_781019\" rel=\"nofollow noopener\" target=\"_blank\">сообщили</a> об аресте своего разработчика Фёдора Власова. По данным модераторов, его заключили под стражу 1 ноября и поместили в СИЗО №5 в Москве.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Как отметили в Kate Mobile, Власова обвинили в незаконных действиях, «которые сделали посторонние личности через прокси-сервера Фёдора». Прокси-сервера созданы для жителей Украины, чтобы они могли общаться через клиент вопреки блокировке «ВКонтакте» на территории страны.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n<blockquote class=\"entry-quote entry-quote--default entry-quote--text-medium\">\n\n    <div class=\"entry-quote__content\">\n\n        <svg class=\"icon icon--entry_quote\" width=\"39\" height=\"28\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_quote\"></use></svg>\n        <div class=\"entry-quote__text\">\n            <p><p> Надеемся, что это неприятная история как можно быстрее будет иметь хороший финал. Его последние слова из письма: «…Мой дом теперь <a href=\"https://vk.com/away.php?to=http%3A%2F%2Fwww.sizo-vodnik.ru%2F&amp;post=-26062647_781019&amp;cc_key=\" rel=\"nofollow noopener\" target=\"_blank\">http://www.sizo-vodnik.ru/</a>».</p></p>\n        </div>\n\n        \n            <div class=\"entry-quote__author\">\n\n                \n                <div class=\"entry-quote__author-content\">\n                                            <div class=\"entry-quote__author-name\">\n                            Kate Mobile                        </div>\n                    \n                                    </div>\n            </div>\n\n            </div>\n\n</blockquote>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В связи с арестом Власова в Kate Mobile отключили возможность использования прокси-сервера. Сайт приложения также временно не работает.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>TJ обратился к администраторам сообщества за комментарием, но не получил ответа. Официальных подтверждений информации от правоохранительных органов обнаружить не удалось.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><b>Обновлено 24 ноября в 13:30:</b> В картотеке Мосгорсуда упоминается прошедшее 3 ноября заседание об избрании меры пресечения мужчине с такими же инициалами, как у Власова. Согласно <a href=\"https://www.mos-gorsud.ru/rs/golovinskij/services/cases/criminal-materials/details/983eb736-d780-4ff9-b610-aa421b5a7534?respondent=%D0%92%D0%BB%D0%B0%D1%81%D0%BE%D0%B2+%D0%A4\" rel=\"nofollow noopener\" target=\"_blank\">карточке</a>, его обвиняют в изнасиловании лица, не достигшего 14-летнего возраста (пункт «б» части 4 статьи 132 УК).</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><b>Обновлено 24 ноября в 14:42:</b> другой разработчик Kate Mobile Дмитрий Моисеев рассказал TJ, что информация об обвинениях Власова в изнасиловании не соответствует действительности. По его словам, на сайте Мосгорсуда речь идёт об однофамильце.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В марте 2018 года «ВКонтакте» <a href=\"https://vc.ru/34762-vkontakte-zakryla-dostup-k-lente-novostey-dlya-polzovateley-prilozheniya-kate-mobile\" rel=\"nofollow noopener\" target=\"_blank\">отключила</a> API новостной ленты для Kate Mobile и пользователи приложения не видели публикации в ленте. Причиной стали <a href=\"https://vc.ru/34909-nam-predlagali-uvelichit-dohody-na-poryadok-chto-izvestno-o-populyarnom-kliente-kate-mobile-i-konflikte-s-vkontakte\" rel=\"nofollow noopener\" target=\"_blank\">разногласия</a> из-за размещения рекламы. Разработчики Kate Mobile отказались размещать объявления, одобренные модераторами «ВКонтакте», размещая собственную.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0\">#политика</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/128f739f-d347-5643-2951-c6e852212d90/",
+        "https://leonardo.osnova.io/6a8fd8c5-b154-d7ec-5e4c-bf8f05a87ad8/",
+        "https://leonardo.osnova.io/da0c928d-18ad-5621-12b6-888eae8d39cd/",
+        "https://leonardo.osnova.io/f4ff10ec-5ca7-5fa5-8bcf-e9ef5180f290/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/bd44037c-b41b-ae9d-fd41-d478172f42ea/",
+        "https://leonardo.osnova.io/fe1bb3ba-6fa6-574c-b379-596a6f3ed897/",
+        "https://leonardo.osnova.io/10903ab1-682c-2cd7-e8f1-456f97d3f1ef/",
+        "https://leonardo.osnova.io/ef1298ec-79b2-c9bd-e30b-114f000c8fc0/",
+        "https://leonardo.osnova.io/a3a5f21d-4f6b-e614-c31d-7a821b9efdf1/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 81374,
+      "author": {
+        "id": 2216,
+        "name": "Сергей Звезда",
+        "avatar_url": "https://leonardo.osnova.io/4918f370-7312-cccd-72c3-8ac3672e5584/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 23,
+      "favoritesCount": 5,
+      "cover": {
+        "additionalData": {
+          "size": 1304882,
+          "type": "jpg",
+          "uuid": "65290004-225e-49cb-0306-20af430dfd0f"
+        },
+        "size": {
+          "width": 3000,
+          "height": 2000
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/65290004-225e-49cb-0306-20af430dfd0f/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/65290004-225e-49cb-0306-20af430dfd0f/",
+        "size_simple": "big"
+      },
+      "date": 1544019406,
+      "dateRFC": "Wed, 05 Dec 2018 17:16:46 +0300",
+      "last_modification_date": 1544020728,
+      "hitsCount": 14821,
+      "intro": "И быстро выбрал себе первую цель — младшего брата.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 60,
+        "summ": 60,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Девятилетний американец добился отмены почти векового запрета на игру в снежки",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/2216\">Сергей Звезда</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"05.12.2018 17:16:46 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1544019406\" >вчера&nbsp;в&nbsp;17:16</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"81374\" data-value=\"14821\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">14&nbsp;821</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Девятилетний американец добился отмены почти векового запрета на игру в <span class=\"entry_header__title__glued\">снежки \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>И быстро выбрал себе первую цель — младшего брата. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 2250px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"3000\"\n    data-image-height=\"2000\"\n    data-image-max-width=\"2250\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/65290004-225e-49cb-0306-20af430dfd0f/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6667%;background-color: #1e1919;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Дэйн Бест. Фото AP                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Власти небольшого городка Северанс в штате Колорадо <a href=\"https://www.greeleytribune.com/news/severance-repeals-ban-on-snowball-fights-following-9-year-old-dane-bests-presentation/\" rel=\"nofollow noopener\" target=\"_blank\">отменили</a> запрет на бои снежками. Снятия ограничений добился девятилетний школьник Дэйн Бест (Dane Best). </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Дэйн узнал о запрете около 1,5 месяцев назад. Запрет почти 100 лет содержался в постановлении, которое запрещало бросать камни и другие метательные снаряды в людей и их имущество, например, машины. Под это определение подпадали и снежки. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<blockquote class=\"entry-quote entry-quote--centered entry-quote--text-medium\">\n\n    <div class=\"entry-quote__content\">\n\n        <svg class=\"icon icon--entry_quote\" width=\"39\" height=\"28\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_quote\"></use></svg>\n        <div class=\"entry-quote__text\">\n            <p><p> Первые упоминания Северанса относятся к 1920 году. То есть запрет на игру в снежки был почти таким же старым, как и сам город.</p></p>\n        </div>\n\n            </div>\n\n</blockquote>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Мальчик счёл запрет несправедливым и собрал письма одноклассников, которые встали на его сторону. Затем Дэйн потратил почти месяц на подготовку презентации и выступил перед городским советом. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<blockquote class=\"entry-quote entry-quote--default entry-quote--text-medium\">\n\n    <div class=\"entry-quote__content\">\n\n        <svg class=\"icon icon--entry_quote\" width=\"39\" height=\"28\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_quote\"></use></svg>\n        <div class=\"entry-quote__text\">\n            <p><p> Дети Северанса хотят иметь возможность играть в снежки, как и дети в остальном мире. Закон появился много лет назад, а сегодня детям требуется причина для игры вне дома. <br /></p></p>\n        </div>\n\n        \n            <div class=\"entry-quote__author\">\n\n                \n                <div class=\"entry-quote__author-content\">\n                                            <div class=\"entry-quote__author-name\">\n                            Дэйн Бест                        </div>\n                    \n                                            <div class=\"entry-quote__author-job\">\n                            девятилетний школьник из США                        </div>\n                                    </div>\n            </div>\n\n            </div>\n\n</blockquote>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>На заседание пришли местные дети и их родители, услышавшие о Бесте из новостей. Дэйн <a href=\"https://apnews.com/f3aeb8a92a0e48f6b53672355abe0977?utm_medium=AP_Oddities&utm_source=Twitter&utm_campaign=SocialFlow\" rel=\"nofollow noopener\" target=\"_blank\">представил</a> аргументы и успешно ответил на вопросы чиновников. </p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 1024px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"1024\"\n    data-image-height=\"676\"\n    data-image-max-width=\"1024\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/bf3a518c-f308-9c93-cf6c-38d14e0a0542/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.0153%;background-color: #4a3e37;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Дэйн Бест в городском совете Северанса.                </span>\n                                        <span class=\"image-caption__author\">\n                    Фото Greeley Tribune                </span>\n                    </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Власти Северанса единогласно поддержали мальчика, но всё же посоветовали напомнить сверстникам, чтобы они соблюдали меры безопасности. После снятия запрета чиновники спросили Беста, в кого он кинет первый снежок. Тот показал пальцем на младшего брата. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Родители Беста сказали журналистам, что гордятся тем, что их сын проявляет инициативу, «какими бы маленькими изменения ни были».</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Мальчик и дальше планирует менять законодательство, в том числе смягчить закон, который причисляет к домашним животным только кошек и собак, а также разрешает держать дома не больше трёх питомцев. Дело в том, что у него живёт морская свинка. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5\">#образование</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/7b8f4e4c-a14f-ca04-58c1-047a9d2d5063/",
+        "https://leonardo.osnova.io/b2010585-554a-e186-76a0-7aa673a40f41/",
+        "https://leonardo.osnova.io/962944a6-dbe2-83cf-9ee7-97dd8d347037/",
+        "https://leonardo.osnova.io/2caae5a7-2a0d-0e01-e140-09c5bce9c2f7/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/04fd57f8-a4d5-cb5c-76dc-526e16083194/",
+        "https://leonardo.osnova.io/451a3cce-3f72-ac1f-1b78-46d49556650f/",
+        "https://leonardo.osnova.io/aacfc0dc-7020-89a4-d77b-f9eca63f43f2/",
+        "https://leonardo.osnova.io/6a8fd8c5-b154-d7ec-5e4c-bf8f05a87ad8/",
+        "https://leonardo.osnova.io/0c16bdef-dba2-9954-1080-5bf24ee4b1c2/",
+        "https://leonardo.osnova.io/2324efcb-78b9-8665-c1d5-e991e7ba9eae/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": "https://leonardo.osnova.io/audio/a72a315a-37e8-0598-74bb-4e8ad044646d/fe45ab7fe645a2b8863846370e247241.mp3"
+    },
+    {
+      "id": 80341,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 8,
+      "favoritesCount": 0,
+      "cover": null,
+      "date": 1542866241,
+      "dateRFC": "Thu, 22 Nov 2018 08:57:21 +0300",
+      "last_modification_date": 1542866241,
+      "hitsCount": 2270,
+      "intro": "Эксперты уверены, что в отношении лекарств трудно прописать чёткие критерии.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 21,
+        "summ": 21,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "ГИБДД и Минздрав захотели наказывать водителей за употребление димедрола и фенобарбитала за рулём",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"22.11.2018 08:57:21 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1542866241\" >22&nbsp;ноя&nbsp;в&nbsp;08:57</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"80341\" data-value=\"2270\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">2&nbsp;270</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            ГИБДД и Минздрав захотели наказывать водителей за употребление димедрола и фенобарбитала за <span class=\"entry_header__title__glued\">рулём \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Эксперты уверены, что в отношении лекарств трудно прописать чёткие критерии.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>ГИБДД и Минздрав начали подготовку поправок к КоАП, которые запретят водителям находиться за рулём после приёма препаратов с одурманивающим эффектом. Среди таких препаратов в том числе фенобарбитал и димедрол, рассказал врио замглавы ГИБДД Александр Быков. Его слова <a href=\"https://www.kommersant.ru/doc/3806525\" rel=\"nofollow noopener\" target=\"_blank\">приводит</a> «Коммерсантъ».</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Согласно действующему законодательству, в данный момент при обнаружении веществ, которые входят в состав лекарств, нельзя вынести водителю заключение об опьянении. Медработник выносит заключение «Состояние опьянения установлено» при обнаружении спирта, наркотических и психотропных веществ. Оно ложится в основу материалов, которые направляют в суд, после чего водителю грозит лишение прав и штраф в 30 тысяч рублей.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>По данным ГИБДД, в Москве в 2017 году выявили 24 подобных случая. При этом чаще всего у водителей в организме был обнаружен фенобарбитал, который назначается в качестве седативного препарата. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Быков сообщил, что ведомство начало разрабатывать предложения по изменению статьи 12.8 КоАП (управление транспортным средством в состоянии опьянения), чтобы ввести ответственность за употребление одурманивающих препаратов. Минздрав поддержал эту идею. Первый замглавы комитета Госдумы по строительству Вячеслав Лысаков также поддержал поправки, но отметил, что разрабатывать их должен Минздрав, который «проявляет удивительную пассивность в этой сфере».</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Лысаков уверен, что Минздрав должен решить, какие именно препараты и в каких дозировках попадут под действие поправок. Он предложил ввести две категории правонарушений. Одно из них с более мягким наказанием коснётся тех, кто принял препарат в медицинских целях и сел за руль вопреки запрету. Вторая категория затронет тех, кто «глотает таблетки пачками» — их предлагают лишать прав и ставить на учёт в наркологическом диспансере.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В отношении лекарств сложно прописать чёткие критерии, как в случае с алкоголем, уверен завотделением медосвидетельствования на состояние опьянения Московского научно-практического центра наркологии Владимир Егоров. По его словам, разные лекарства по-разному действуют на человека в зависимости от дозы и состояния организма. Ещё одна проблема заключается в том, что производители по-разному формулируют ограничения к вождению, или вообще не указывают их.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8\">#автомобили</a> <a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://gif.cmtt.space/3/user-userpic/79/5b/11/70a432c7e72465.jpg",
+        "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/",
+        "https://leonardo.osnova.io/713158a9-1590-b059-d74e-77e1d4349df1/",
+        "https://leonardo.osnova.io/730ec6f4-f442-553b-2fb8-b74b729191ab/",
+        "https://leonardo.osnova.io/3e80d90b-0ef3-95ab-53a7-2ef722163e81/",
+        "https://leonardo.osnova.io/7ae791d3-0d4b-82e4-e4a3-5861fc56d46f/",
+        "https://leonardo.osnova.io/2caae5a7-2a0d-0e01-e140-09c5bce9c2f7/",
+        "https://leonardo.osnova.io/d3ef1882-f017-8ed5-3c95-2da578b779bb/",
+        "https://leonardo.osnova.io/5d4f5e00-8a32-901f-6dae-d517727f95f8/",
+        "https://leonardo.osnova.io/d901a02a-284f-9052-e8fc-2cf8d1f7ac51/",
+        "https://leonardo.osnova.io/b4dfec47-3ef5-1ee6-a7fb-f192bcd2d448/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 79866,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 39,
+      "favoritesCount": 4,
+      "cover": {
+        "additionalData": {
+          "size": 139111,
+          "type": "jpg",
+          "uuid": "da0a0a36-d555-a863-fcd0-5c809078bcbd"
+        },
+        "size": {
+          "width": 800,
+          "height": 534
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/da0a0a36-d555-a863-fcd0-5c809078bcbd/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/da0a0a36-d555-a863-fcd0-5c809078bcbd/",
+        "size_simple": "big"
+      },
+      "date": 1542127761,
+      "dateRFC": "Tue, 13 Nov 2018 19:49:21 +0300",
+      "last_modification_date": 1542139384,
+      "hitsCount": 8913,
+      "intro": "Детей также учили «снимать пальчики» и рисовать фоторобот.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 61,
+        "summ": 61,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Мурманская полиция одела детей в тюремные робы для профориентации",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"13.11.2018 19:49:21 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1542127761\" >13&nbsp;ноя&nbsp;в&nbsp;19:49</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"79866\" data-value=\"8913\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">8&nbsp;913</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Мурманская полиция одела детей в тюремные робы для <span class=\"entry_header__title__glued\">профориентации \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Детей также учили «снимать пальчики» и рисовать фоторобот.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 800px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"800\"\n    data-image-height=\"534\"\n    data-image-max-width=\"800\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/da0a0a36-d555-a863-fcd0-5c809078bcbd/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.7512%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Фото УМВД России по Мурманской области                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>УМВД России по Мурманской области <a href=\"https://51.xn--b1aew.xn--p1ai/news/item/14958275/\" rel=\"nofollow noopener\" target=\"_blank\">организовало</a> профессиональную ориентацию для детей. Участники могли пройти мастер-класс по профессии полицейского.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Дети и родители рисовали фотороботы, снимали отпечатки пальцев с предметов, распутывали загадки в детективном квесте и соревновались в физической подготовке. Кроме того, судя по фотографиям, некоторые дети играли роль преступников.</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p><b>Обновлено в 22:02:</b> С сайта МВД пропала фотография с мальчиком в тюремной робе. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В официальном сообществе ведомства во «ВКонтакте» публикация с фотографиями <a href=\"https://vk.com/wall-71098206_6446\" rel=\"nofollow noopener\" target=\"_blank\">недоступна</a> — вместо неё <a href=\"https://vk.com/wall-71098206_6448\" rel=\"nofollow noopener\" target=\"_blank\">опубликован</a> пресс-релиз о мероприятии без снимков.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 800px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"800\"\n    data-image-height=\"533\"\n    data-image-max-width=\"800\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/00a06adc-3142-1243-fdae-963279019114/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6267%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 800px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"800\"\n    data-image-height=\"533\"\n    data-image-max-width=\"800\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/1dbc782c-718b-f87c-d11d-119fdb72d398/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6267%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 800px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"800\"\n    data-image-height=\"533\"\n    data-image-max-width=\"800\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/746702b4-5db1-288d-459e-fee12e9acb55/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 66.6267%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5\">#образование</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://leonardo.osnova.io/3a03dd4c-dca8-1ba9-b376-19c361dbd36b/",
+        "https://gif.cmtt.space/3/user-userpic/a7/9a/9d/128b6a99c4363f.jpg",
+        "https://leonardo.osnova.io/d901a02a-284f-9052-e8fc-2cf8d1f7ac51/",
+        "https://leonardo.osnova.io/c344aba6-dcf2-7f9c-e120-25b3446b4e58/",
+        "https://leonardo.osnova.io/9a69c392-2678-ba3d-5fc8-71f6fad188ec/",
+        "https://leonardo.osnova.io/451a3cce-3f72-ac1f-1b78-46d49556650f/",
+        "https://leonardo.osnova.io/37356813-9dae-0870-68d9-33b59549fa9c/",
+        "https://leonardo.osnova.io/f4ff10ec-5ca7-5fa5-8bcf-e9ef5180f290/",
+        "https://leonardo.osnova.io/c1aee6eb-2ad3-8ea7-a74a-71721aaf389e/",
+        "https://leonardo.osnova.io/2324efcb-78b9-8665-c1d5-e991e7ba9eae/",
+        "https://leonardo.osnova.io/304db921-00ce-2cd8-651d-cdc7402aba3e/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 79667,
+      "author": {
+        "id": 127966,
+        "name": "Mayya Gavasheli",
+        "avatar_url": "https://leonardo.osnova.io/6a64f864-fd02-854f-9dc9-05259b0cce1c/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 42,
+      "favoritesCount": 4,
+      "cover": {
+        "additionalData": {
+          "size": 22877,
+          "type": "jpg",
+          "uuid": "c58b37b2-d4d6-e74d-9b57-a5779be6ecdd"
+        },
+        "size": {
+          "width": 418,
+          "height": 314
+        },
+        "thumbnailUrl": "https://leonardo.osnova.io/c58b37b2-d4d6-e74d-9b57-a5779be6ecdd/-/scale_crop/800/-/progressive/yes/",
+        "type": 1,
+        "url": "https://leonardo.osnova.io/c58b37b2-d4d6-e74d-9b57-a5779be6ecdd/",
+        "size_simple": "big"
+      },
+      "date": 1541757808,
+      "dateRFC": "Fri, 09 Nov 2018 13:03:28 +0300",
+      "last_modification_date": 1541783778,
+      "hitsCount": 8000,
+      "intro": "Воспитанников лагеря отправляли туда за «провинности» и выпускали только поесть и в туалет.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 50,
+        "summ": 50,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "В Ивановской области на бывшую начальницу детского лагеря завели дело. Её заподозрили в создании «карцера»",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/127966\">Mayya Gavasheli</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"09.11.2018 13:03:28 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1541757808\" >9&nbsp;ноя&nbsp;в&nbsp;13:03</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"79667\" data-value=\"8000\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">8&nbsp;000</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            В Ивановской области на бывшую начальницу детского лагеря завели дело. Её заподозрили в создании <span class=\"entry_header__title__glued\">«карцера» \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>Воспитанников лагеря отправляли туда за «провинности» и выпускали только поесть и в туалет.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<figure>\n\n    <div class=\"image-wrapper-2 image-wrapper-2--with_background image-wrapper-2--thin\">\n        \n<div\n    class=\"andropov_image \"\n    style=\"max-height: 1500px;max-width: 418px;\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-width=\"418\"\n    data-image-height=\"314\"\n    data-image-max-width=\"418\"    data-image-max-height=\"1500\"    data-image-src=\"https://leonardo.osnova.io/c58b37b2-d4d6-e74d-9b57-a5779be6ecdd/\">\n\n    <div class=\"andropov_image__inner\" style=\";padding-bottom: 75.1202%;background-color: #e0e0e0;\"></div>\n</div>\n    </div>\n\n            <figcaption class=\"image-caption\">\n                            <span class=\"image-caption__title\">\n                    Фото СК по Ивановской области                </span>\n                                </figcaption>\n    \n</figure>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>В Ивановской области задержали бывшего директора детского оздоровительного лагеря в городе Вичуга. Женщину <a href=\"http://ivanovo.sledcom.ru/news/item/1270752/\" rel=\"nofollow noopener\" target=\"_blank\">заподозрили</a> в создании в лагере «карцера», куда она помещала детей на срок от нескольких часов до нескольких суток.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Имя директора не раскрывается. По версии следствия, летом 2018 года она заставляла детей жить в комнате без окон в деревянном корпусе. СК считает, что женщина выпускала запертых детей только поесть и в туалет. Против директора возбудили дело о незаконном лишении свободы и истязании (статьи 127 и 117 УК).</p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n            \n            \n    <p>Представитель областного управления СК Ирина Котова <a href=\"https://ria.ru/incidents/20181109/1532429667.html\" rel=\"nofollow noopener\" target=\"_blank\">рассказала</a> РИА «Новости», что потерпевшими по делу следствие считает восемь детей, мальчиков от 9 до 13 лет. По словам Котовой, речь идёт о лагере «Радуга», воспитанников отправляли в карцер за разные «провинности».</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>Как <a href=\"https://ivanovo.sm-news.ru/v-ivanovskoj-oblasti-direktor-radugi-izdevalas-nad-detmi-i-sazhala-ix-v-karcer/\" rel=\"nofollow noopener\" target=\"_blank\">выяснило</a> SM-News, директора уволили, она отказалась от дачи показаний, воспользовавшись 51 статьей Конституции. По данным издания, детям потребовалась помощь психолога.</p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><b>Обновлено в 14:18:</b> учредитель лагеря Александр Сутормин <a href=\"https://govoritmoskva.ru/news/179272/\" rel=\"nofollow noopener\" target=\"_blank\">рассказал</a> радиостанции «Говорит Москва», что ничего подобного не происходило. </p>\n\n            \n            \n                \n            \n        \n            \n            \n    <p>По словам Сутормина, недостоверную информацию распространили детдомовцы, которые отдыхали в лагере. Из-за плохого поведения детей поселили в отдельную комнату, после чего один из них якобы распространил слухи о «карцере».</p>\n\n            \n            \n                \n            \n        \n            \n            \n<blockquote class=\"entry-quote entry-quote--default entry-quote--text-small\">\n\n    <div class=\"entry-quote__content\">\n\n        <svg class=\"icon icon--entry_quote\" width=\"39\" height=\"28\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_quote\"></use></svg>\n        <div class=\"entry-quote__text\">\n            <p><p>Это наговоры Октябрьского детского дома в Архангельской области. Мы заключили договор с вологодской турфирмой, которая нам этих детей направила. Эти дети — просто неадекваты, психически больные, потому что они практически все на психотропных средствах. Ведут себя неадекватно: хулиганят, рисуют на стенах, разбивают кровати, тумбочки, лягушкам головы разбивали палками.</p></p>\n        </div>\n\n        \n            <div class=\"entry-quote__author\">\n\n                \n                <div class=\"entry-quote__author-content\">\n                                            <div class=\"entry-quote__author-name\">\n                            Александр Сутормин                        </div>\n                    \n                                            <div class=\"entry-quote__author-job\">\n                            учредитель лагеря «Радуга»                        </div>\n                                    </div>\n            </div>\n\n            </div>\n\n</blockquote>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a> <a href=\"https://tjournal.ru/tag/%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%8B\">#скандалы</a> </p>\n\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://gif.cmtt.space/3/user-userpic/8d/fe/fa/e7dc6cf13f8c3e.jpg",
+        "https://leonardo.osnova.io/713158a9-1590-b059-d74e-77e1d4349df1/",
+        "https://leonardo.osnova.io/a3a5f21d-4f6b-e614-c31d-7a821b9efdf1/",
+        "https://leonardo.osnova.io/60b07905-a33c-aec6-51f1-a6d8d72c6b32/",
+        "https://leonardo.osnova.io/304db921-00ce-2cd8-651d-cdc7402aba3e/",
+        "https://leonardo.osnova.io/730ec6f4-f442-553b-2fb8-b74b729191ab/",
+        "https://leonardo.osnova.io/bc7931f4-8b44-5dd9-646b-bf16e0f20dbd/",
+        "https://leonardo.osnova.io/779ed2e7-f5ef-2360-b88d-e2672c9a024e/",
+        "https://leonardo.osnova.io/713158a9-1590-b059-d74e-77e1d4349df1/",
+        "https://leonardo.osnova.io/1fa3e638-0095-1103-b527-aa5465adf30a/",
+        "https://leonardo.osnova.io/2caae5a7-2a0d-0e01-e140-09c5bce9c2f7/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    },
+    {
+      "id": 80784,
+      "author": {
+        "id": 98420,
+        "name": "Николай Чумаков",
+        "avatar_url": "https://leonardo.osnova.io/fb931bd4-7e82-13b7-b044-d9c8096df8e1/"
+      },
+      "badges": [
+        {
+          "type": "top",
+          "text": "Право",
+          "background": "#ffffff",
+          "color": "#717173",
+          "border": "#ffffff"
+        }
+      ],
+      "commentsCount": 6,
+      "favoritesCount": 2,
+      "cover": null,
+      "date": 1543556583,
+      "dateRFC": "Fri, 30 Nov 2018 08:43:03 +0300",
+      "last_modification_date": 1543556583,
+      "hitsCount": 2270,
+      "intro": "В дополнение к желанию Минкомсвязи штрафовать за утечку персональных данных.",
+      "introInFeed": null,
+      "isEnabledComments": true,
+      "isEnabledLikes": true,
+      "isFavorited": false,
+      "likes": {
+        "is_liked": 0,
+        "count": 20,
+        "summ": 20,
+        "is_hidden": false
+      },
+      "subsite": {
+        "id": 214352,
+        "url": "https://tjournal.ru/law",
+        "type": 2,
+        "name": "Право",
+        "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+        "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+        "head_cover": null
+      },
+      "similar": [],
+      "title": "Власти создадут единую базу с данными о гражданах и бизнесе к 2022 году",
+      "type": 2,
+      "entryContent": {
+        "html": "\n\n\n\n<div class=\"entry_header entry_header--full entry_header--api l-pt-3\">\n\n    \n    <div class=\"l-flex\">\n        <div class=\"entry_header__subsite entry_header__subsite--mode-1 l-mb-16 lm-mb-11\">\n\n            <div class=\"entry_header__subsite__wrapper\">\n                <a class=\"entry_header__subsite__avatar l-mr-9\" href=\"https://tjournal.ru/law\">\n                    \n<img\n    class=\"andropov_image  andropov_image--bordered\"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>                </a>\n\n                                    <a class=\"entry_header__subsite__name l-mr-23\" href=\"https://tjournal.ru/s/214352\">Право</a>\n                \n                                    <a class=\"entry_header__subsite__author l-mr-23 lm-mr-0\" href=\"https://tjournal.ru/u/98420\">Николай Чумаков</a>\n                            </div>\n\n            <div class=\"entry_header__subsite__break l-hidden lm-block\"></div>\n\n            <div class=\"entry_header__subsite__date l-mr-23 lm-mr-9 lm-mt-4\">\n                <time class=\"time\" title=\"30.11.2018 08:43:03 (Europe/Moscow)\" air-module=\"module.date\" air-date-timestamp=\"1543556583\" >30&nbsp;ноя&nbsp;в&nbsp;08:43</time>            </div>\n\n                                                <div class=\"entry_header__subsite__views lm-mr-9 lm-mt-4\">\n                        \n<div class=\"views\" air-module=\"module.views\" data-content-id=\"80784\" data-value=\"2270\">\n    <svg class=\"icon icon--entry_views\" width=\"16\" height=\"18\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#entry_views\"></use></svg>    <span class=\"views__value\">2&nbsp;270</span>\n</div>\n                    </div>\n                                    </div>\n\n        \n        \n    </div>\n\n    <h1 itemprop=\"headline\" class=\"entry_header__title t-fs-36 tm-fs-28 t-lh-1_3 t-ff-1-500 l-mb-15 lm-mb-10\">\n        \n            Власти создадут единую базу с данными о гражданах и бизнесе к 2022 <span class=\"entry_header__title__glued\">году \n<a href=\"/editorial\">\n    <small class=\"editorial-tick\">\n        <label class=\"editorial-tick__label\"></label>\n        <svg class=\"icon icon--editorial\" width=\"18\" height=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#editorial\"></use></svg>    </small>\n</a></span>\n            </h1>\n</div>\n\n\n\n<div class=\"entry_content entry_content--full\">\n\n    <div class=\"b-article\">\n\n        \n        \n            \n            \n    <p>В дополнение к желанию Минкомсвязи штрафовать за утечку персональных данных.</p>\n\n            \n            \n                \n            \n        \n            \n            \n<ul>\n\n    \n        <li>Российские власти запланировали создание единой базы данных с информацией о гражданах и компаниях. Этим займётся Аналитический центр при правительстве (АЦ) в рамках проекта «Цифровая экономика»;</li>\n\n    \n        <li>В единую базу данных войдёт то, что сейчас хранится в государственных информационных системах. Например, ФИО, адреса, телефоны, сведения о профессии и дате рождения. А бизнес будет передавать данные по обязательным отчётностям;</li>\n\n    \n        <li>Государственная информационная система (ГИС) — это общедоступные хранилища данных граждан, например база ЕГРЮЛ от ФНС, реестр подозреваемых в терроризме на сайте Росфинмониторинга и даже данные переписи населения. В них не всегда хранятся актуальные данные или могут дублироваться;</li>\n\n    \n        <li>До этого Минкомсвязи <a href=\"https://tjournal.ru/80393-minkomsvyazi-zahotelo-shtrafovat-za-utechku-personalnyh-dannyh-iz-gosudarstvennyh-baz\" rel=\"nofollow noopener\" target=\"_blank\">разработало</a> законопроекты, по которым людям и компаниям будет запрещено самостоятельно создавать базы данных из информации государственных информационных систем (ГИС), а за утечку грозят штрафы. Меньше всех придётся платить частным лицам — 2 тысячи рублей, больше всех — юридическим лицам — 35 тысяч рублей.</li>\n\n    \n</ul>\n\n            \n            \n                \n            \n        \n            \n            \n<a class=\"andropov_link andropov_link--with_image\" href=\"https://www.vedomosti.ru/economics/articles/2018/11/29/787981-gosudarstvo?ref=tjournal.ru\" target=\"_blank\" rel=\"nofollow\">\n\n    \n        \n<img\n    class=\"andropov_image \"\n    air-module=\"module.andropov\"\n    data-andropov-type=\"image\"\n    data-image-src=\"https://leonardo.osnova.io/4f68c18f-b3bd-57ec-40ed-300ef17c2705/\"\n    style=\";background-color: #e0e0e0;\"        src=\"data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==\"/>\n    \n    <div class=\"andropov_link__title\">\n        Государство наведет порядок в собранных данных о...    </div>\n\n    <div class=\"andropov_link__description\">\n        Доступ к ним может быть платным    </div>\n\n    <div class=\"andropov_link__host\">\n        <svg class=\"icon icon--ui_external\" width=\"11\" height=\"11\" xmlns=\"http://www.w3.org/2000/svg\"><use xlink:href=\"#ui_external\"></use></svg>        www.vedomosti.ru    </div>\n\n</a>\n\n            \n            \n                \n            \n        \n            \n            \n    <p><a href=\"https://tjournal.ru/tag/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C\">#безопасность</a> <a href=\"https://tjournal.ru/tag/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B\">#законы</a></p>\n\n                            <div class=\"inline_video_banner\"></div>\n                <div class=\"propaganda\" data-id=\"14\"></div>\n            \n            \n                \n            \n        \n        \n        \n            \n            \n        \n        \n        \n\n    </div>\n\n</div>\n\n\n<!-- empty -->",
+        "version": "4220892809.99"
+      },
+      "commentatorsAvatars": [
+        "https://gif.cmtt.space/3/user-userpic/79/5b/11/70a432c7e72465.jpg",
+        "https://leonardo.osnova.io/41234499-c26c-89f7-5ef7-da578bf465cb/",
+        "https://leonardo.osnova.io/9a69c392-2678-ba3d-5fc8-71f6fad188ec/",
+        "https://leonardo.osnova.io/d79cf375-e931-1e63-4ca2-26c547e67978/",
+        "https://leonardo.osnova.io/c5881ee1-b2bd-e0ae-a463-43baa3ad11d4/",
+        "https://leonardo.osnova.io/54df76c0-2fb2-200f-eddc-16d2011ba66e/",
+        "https://leonardo.osnova.io/bd44037c-b41b-ae9d-fd41-d478172f42ea/",
+        "https://leonardo.osnova.io/d79cf375-e931-1e63-4ca2-26c547e67978/",
+        "https://leonardo.osnova.io/12a1430d-206b-4432-e6c4-a5323b630800/",
+        "https://leonardo.osnova.io/11c41d3d-af55-b23a-226d-8d483c5440c6/",
+        "https://leonardo.osnova.io/cf9fa078-5237-411d-83ca-cd75daab0218/"
+      ],
+      "webviewUrl": null,
+      "isPinned": false,
+      "isEditorial": true,
+      "audioUrl": null
+    }
+  ]
+}
