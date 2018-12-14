@@ -1,0 +1,28 @@
+{
+  "id": 214352,
+  "url": "https://tjournal.ru/law",
+  "type": 2,
+  "created": 1543626205,
+  "createdRFC": "Sat, 01 Dec 2018 04:03:25 +0300",
+  "name": "Право",
+  "rules": null,
+  "description": "Законопроекты, судебные заседания, новые правила и нормы, правозащита. Всё, что не связано с политикой.",
+  "avatar_url": "https://leonardo.osnova.io/104cded3-1652-64be-bf52-9b781bae9baa/",
+  "cover": null,
+  "karma": 0,
+  "is_muted": false,
+  "is_subscribed": false,
+  "is_verified": false,
+  "is_enable_writing": false,
+  "subscribers_count": 217371,
+  "comments_count": 0,
+  "entries_count": 449,
+  "vacancies_count": 0,
+  "is_unsubscribable": true,
+  "contacts": {
+    "socials": [],
+    "site": [],
+    "email": "",
+    "contacts": ""
+  }
+}

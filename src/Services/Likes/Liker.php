@@ -1,6 +1,8 @@
 <?php
 
-namespace Osnova\Services\Timeline;
+namespace Osnova\Services\Likes;
+
+use Osnova\Services\Entries\Author;
 
 class Liker extends Author
 {
@@ -20,7 +22,7 @@ class Liker extends Author
      *
      * @return bool
      */
-    public function liked()
+    public function isLiked()
     {
         return $this->getSign() === 1;
     }
@@ -30,7 +32,7 @@ class Liker extends Author
      *
      * @return bool
      */
-    public function disliked()
+    public function isDisliked()
     {
         return $this->getSign() === -1;
     }

@@ -1,14 +1,18 @@
 <?php
 
-namespace Osnova\Services\Timeline;
+namespace Osnova\Services\Entries;
 
-use GuzzleHttp\Exception\RequestException;
+use Osnova\Services\Comments\Enums\CommentsSorting;
+use Osnova\Services\Comments\Interfaces\HasCommentsListInterface;
+use Osnova\Services\Comments\Requests\CommentsRequest;
 use Osnova\Services\Media\CoverImage;
 use Osnova\Services\ServiceEntity;
+use Osnova\Services\ServiceRequest;
 use Osnova\Services\Subsites\Subsite;
-use Osnova\Services\Timeline\Traits\HasLikes;
+use Osnova\Services\Likes\Traits\HasLikes;
+use Osnova\Support\DateTimeHelper;
 
-class Entry extends ServiceEntity
+class Entry extends ServiceEntity implements HasCommentsListInterface
 {
     use HasLikes;
 
@@ -139,17 +143,17 @@ class Entry extends ServiceEntity
      */
     public function getDate()
     {
-        return new \DateTimeImmutable($this->getData('date', 0), 'Europe/Moscow');
+        return new \DateTimeImmutable($this->getData('dateRFC'));
     }
 
     /**
      * Get entry's last modification date.
      *
-     * @return \DateTimeImmutable
+     * @return \DateTimeImmutable|null
      */
     public function getLastModificationDate()
     {
-        return new \DateTimeImmutable($this->getData('last_modification_date', 0), 'Europe/Moscow');
+        return DateTimeHelper::createFromTimestamp($this->getData('last_modification_date'));
     }
 
     /**
@@ -259,46 +263,28 @@ class Entry extends ServiceEntity
     }
 
     /**
-     * Get list of popular entries for the current entry.
+     * Get the comments URL prefix.
      *
-     * @return array|Entry[]
+     * @param ServiceRequest $request
+     *
+     * @return string
      */
-    public function getPopularEntries()
+    public function getCommentsUrl($request)
     {
-        try {
-            $response = $this->getApiProvider()->getClient()->request('GET', $this->apiUrl('popular'));
-
-            return $this->getEntitiesBuilder(static::class)
-                ->fromResponse($response)
-                ->with($this->apiProvider, $this->resource)
-                ->collection();
-        } catch (RequestException $e) {
-            //
+        if ($request instanceof CommentsRequest) {
+            return $this->apiUrl($request->getBaseUrl());
         }
 
-        return [];
+        return $this->apiUrl('comments/'.CommentsSorting::RECENT);
     }
 
     /**
-     * Get comments list for the current entry.
+     * Get the popular entries URL.
      *
-     * @param string $sorting
-     *
-     * @return array|Comment[]
+     * @return string
      */
-    public function getComments(string $sorting)
+    public function getPopularEntriesUrl()
     {
-        try {
-            $response = $this->getApiProvider()->getClient()->request('GET', $this->apiUrl('comments/'.$sorting));
-
-            return $this->getEntitiesBuilder(Comment::class)
-                ->fromResponse($response)
-                ->with($this->apiProvider, $this->resource)
-                ->collection();
-        } catch (RequestException $e) {
-            //
-        }
-
-        return [];
+        return $this->apiUrl('popular');
     }
 }

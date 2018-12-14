@@ -3,7 +3,7 @@
 namespace Osnova\Services;
 
 use Osnova\Api\ApiProvider;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 use Osnova\Support\Traits\BuildsEntities;
 use Osnova\Support\Traits\HasApiProvider;
 use Osnova\Support\Traits\HasOsnovaResource;

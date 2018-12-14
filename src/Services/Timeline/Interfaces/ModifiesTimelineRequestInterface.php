@@ -4,7 +4,7 @@ namespace Osnova\Services\Timeline\Interfaces;
 
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 
-interface ModifiesTimelineRequest
+interface ModifiesTimelineRequestInterface
 {
     /**
      * Modify given timeline request.

@@ -1,6 +1,6 @@
 <?php
 
-namespace Osnova\Services\Timeline;
+namespace Osnova\Services\Entries;
 
 use Osnova\Services\ServiceEntity;
 

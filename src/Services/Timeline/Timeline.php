@@ -3,10 +3,13 @@
 namespace Osnova\Services\Timeline;
 
 use GuzzleHttp\Exception\RequestException;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 use Osnova\Services\AbstractService;
-use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequest;
+use Osnova\Services\Entries\Entry;
+use Osnova\Services\Timeline\Enums\TimelineSearchOrder;
+use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequestInterface;
 use Osnova\Services\Timeline\Interfaces\TimelineOwnerInterface;
+use Osnova\Services\Timeline\Owners\NewsTimeline;
 use Osnova\Services\Timeline\Owners\TimelineSearch;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 use Osnova\Services\Timeline\Requests\TimelineSearchRequest;
@@ -44,6 +47,19 @@ class Timeline extends AbstractService
     }
 
     /**
+     * Get news timeline.
+     *
+     * @param TimelineRequest $request  Timeline request parameters.
+     * @param OsnovaResource  $resource = null Osnova resource instance that will be bound to entries.
+     *
+     * @return array|Entry[]
+     */
+    public function getNewsTimeline(TimelineRequest $request, OsnovaResource $resource = null)
+    {
+        return $this->getTimeline(new NewsTimeline(), $request, $resource);
+    }
+
+    /**
      * Get timeline search results.
      *
      * @param string         $query    Query string.
@@ -53,8 +69,12 @@ class Timeline extends AbstractService
      *
      * @return array|Entry[]
      */
-    public function getTimelineSearchResults(string $query, string $orderBy = 'relevant', int $page = 1, OsnovaResource $resource = null)
-    {
+    public function getTimelineSearchResults(
+        string $query,
+        string $orderBy = TimelineSearchOrder::RELEVANT,
+        int $page = 1,
+        OsnovaResource $resource = null
+    ) {
         return $this->getTimeline(
             new TimelineSearch($query),
             new TimelineSearchRequest($orderBy, $page),
@@ -87,16 +107,61 @@ class Timeline extends AbstractService
     }
 
     /**
+     * Get pinned timeline entry.
+     *
+     * @param OsnovaResource $resource = null Osnova resource that will be bound to entry.
+     *
+     * @return Entry|null
+     */
+    public function getPinnedEntry(OsnovaResource $resource = null)
+    {
+        try {
+            $response = $this->getApiProvider()->getClient()->request('GET', 'getflashholdedentry');
+
+            return $this->getEntitiesBuilder(Entry::class)
+                ->fromResponse($response)
+                ->with($this->getApiProvider(), $resource)
+                ->item();
+        } catch (RequestException $e) {
+            //
+        }
+
+        return null;
+    }
+
+    /**
+     * Get the popular entries list for the given entry.
+     *
+     * @param Entry          $entry
+     * @param OsnovaResource $resource = null
+     *
+     * @return array|Entry[]
+     */
+    public function getPopularEntries(Entry $entry, OsnovaResource $resource = null)
+    {
+        try {
+            $response = $this->getApiProvider()->getClient()->request('GET', $entry->getPopularEntriesUrl());
+
+            return $this->getEntitiesBuilder(Entry::class)
+                ->fromResponse($response)
+                ->with($this->apiProvider, $resource)
+                ->collection();
+        } catch (RequestException $e) {
+            //
+        }
+    }
+
+    /**
      * Resolve correct timeline request to be used in API request.
      *
-     * @param TimelineOwnerInterface|ModifiesTimelineRequest $owner
-     * @param TimelineRequest                                $request
+     * @param TimelineOwnerInterface|ModifiesTimelineRequestInterface $owner
+     * @param TimelineRequest                                         $request
      *
      * @return TimelineRequest
      */
     protected function resolveRequest(TimelineOwnerInterface $owner, TimelineRequest $request)
     {
-        if (!($owner instanceof ModifiesTimelineRequest)) {
+        if (!($owner instanceof ModifiesTimelineRequestInterface)) {
             return $request;
         }
 
@@ -116,8 +181,11 @@ class Timeline extends AbstractService
     public function getTimelineUrl(TimelineOwnerInterface $owner, TimelineRequest $request)
     {
         $prefix = trim($owner->getTimelineUrlPrefix(), '/');
-        $sorting = trim($request->getSorting(), '/');
 
-        return $prefix.($sorting ? '/'.$sorting : '');
+        if (!$request->hasSorting()) {
+            return $prefix;
+        }
+
+        return $prefix.'/'.trim($request->getSorting(), '/');
     }
 }

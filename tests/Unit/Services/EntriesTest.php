@@ -3,31 +3,34 @@
 namespace Osnova\Tests\Unit\Services;
 
 use Mockery\MockInterface;
+use Osnova\Services\Comments\Enums\CommentsSorting;
+use Osnova\Services\Comments\Requests\CommentsRequest;
+use Osnova\Services\Entries\Author;
+use Osnova\Services\Entries\Entry;
+use Osnova\Services\Entries\EntryContent;
 use Osnova\Services\Subsites\Subsite;
-use Osnova\Services\Timeline\Author;
-use Osnova\Services\Timeline\Comment;
-use Osnova\Services\Timeline\Entry;
-use Osnova\Services\Timeline\EntryContent;
+use Osnova\Services\Comments\Comment;
 use Osnova\Tests\Fakes\FakeResponse;
 use Osnova\Tests\TestCase;
+use Osnova\TJournal;
 
 class EntriesTest extends TestCase
 {
-    public function createEntry(MockInterface $apiProviderMock = null)
+    public function createEntry()
     {
         $filePath = realpath(__DIR__.'/../../Fixtures/entry-example.json');
 
         return new Entry(
-            json_decode(file_get_contents($filePath), true)['result'],
-            $apiProviderMock
+            json_decode(file_get_contents($filePath), true)['result']
         );
     }
+
     /**
      * @param string $getter
      * @param $expectedValue
      * @dataProvider basicGettersDataProvider
      */
-    public function testItShouldProvideCorrectBasicGetters(string $getter, $expectedValue)
+    public function testItShouldProvideBasicGetters(string $getter, $expectedValue)
     {
         $entry = $this->createEntry();
 
@@ -69,8 +72,10 @@ class EntriesTest extends TestCase
             $mock->shouldReceive('getClient')->andReturn($httpMock);
         });
 
-        $entry = $this->createEntry($mock);
-        $entries = $entry->getPopularEntries();
+        $tjournal = new TJournal($mock);
+        $entry = $this->createEntry();
+
+        $entries = $tjournal->getPopularEntries($entry);
         $this->assertInternalType('array', $entries);
         $this->assertSame(12, count($entries));
 
@@ -87,7 +92,13 @@ class EntriesTest extends TestCase
                     realpath(__DIR__.'/../../Fixtures/entry-comments-example.json')
                 );
 
-                $http->shouldReceive('request')->with('GET', 'entries/81129/comments/popular')->andReturn(
+                $args = [
+                    'GET',
+                    'entries/81129/comments/popular',
+                    ['query' => ['count' => 20, 'offset' => 0]],
+                ];
+
+                $http->shouldReceive('request')->with(...$args)->andReturn(
                     FakeResponse::makeJson($comments)
                 );
             });
@@ -95,8 +106,10 @@ class EntriesTest extends TestCase
             $mock->shouldReceive('getClient')->andReturn($httpMock);
         });
 
-        $entry = $this->createEntry($mock);
-        $comments = $entry->getComments('popular');
+        $tjournal = new TJournal($mock);
+        $entry = $this->createEntry();
+
+        $comments = $tjournal->getComments($entry, new CommentsRequest(CommentsSorting::POPULAR));
         $this->assertInternalType('array', $comments);
         $this->assertSame(30, count($comments));
 
@@ -202,7 +215,14 @@ class EntriesTest extends TestCase
                 'methods' => [
                     'getVersion' => '1680761577.99',
                 ],
-            ]
+            ],
+            [
+                'getter' => 'getDate',
+                'expectedClass' => \DateTimeImmutable::class,
+                'methods' => [
+                    'getTimestamp' => 1543833902,
+                ],
+            ],
         ];
     }
 }

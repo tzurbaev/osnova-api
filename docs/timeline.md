@@ -11,10 +11,12 @@
     - [Получение ленты записей по хэштегу](#hashtag-timeline)
     - [Поиск записей](#entires-search)
     - [Получение ленты записей из подсайта](#subsite-timeline)
+    - [Получение ленты новостей](#news-timeline)
     - [Получение записи по ID](#entry-by-id)
     - [Работа из экземпляра сайта](#resource-timeline-usage)
         - [Получение ленты записей из экземпляра сайта](#resource-timeline)
         - [Поиск записей](#resource-search)
+        - [Получение ленты новостей из экземпляра сайта](#resource-news-timeline)
         - [Получение записи из экземпляра сайта](#entry-by-id-from-resource)
 
 Сервис ленты записей предоставляет возможность получать записи как из категорий,
@@ -27,7 +29,7 @@
 и экземпляр параметров запроса (`TimelineRequest`).
 
 В случае успешного ответа, метод `Timeline::getTimeline` вернёт массив объектов
-`Osnova\Services\Timeline\Entry`. Подробная информация о том, что умеет делать
+`Osnova\Services\Entries\Entry`. Подробная информация о том, что умеет делать
 этот класс - [здесь](entry.md).
 
 ### Параметры запроса {#request}
@@ -41,9 +43,10 @@
 ```php
 <?php
 
+use Osnova\Services\Timeline\Enums\TimelineSorting;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 
-$request = new TimelineRequest('popular');
+$request = new TimelineRequest(TimelineSorting::POPULAR);
 ```
 
 #### Пагинация {#pagination}
@@ -54,9 +57,10 @@ $request = new TimelineRequest('popular');
 ```php
 <?php
 
+use Osnova\Services\Timeline\Enums\TimelineSorting;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 
-$request = new TimelineRequest('popular', 20, 1);
+$request = new TimelineRequest(TimelineSorting::POPULAR, 20, 1);
 ```
 
 ### Создание сервиса {#instantiation}
@@ -105,7 +109,7 @@ $hashtag = new TimelineHashtag('политика');
 $entries = $timeline->getTimeline($hashtag, new TimelineRequest());
 ```
 
-> Обратите внимание: класс `TimelineHashtag` реализует интерфейс `ModifiesTimelineRequest`,
+> Обратите внимание: класс `TimelineHashtag` реализует интерфейс `ModifiesTimelineRequestInterface`,
 > который позволяет модифицировать переданный запрос до непосредственной
 > его отправки в API.
 >
@@ -119,10 +123,11 @@ $entries = $timeline->getTimeline($hashtag, new TimelineRequest());
 
 use Osnova\Api\ApiProvider;
 use Osnova\Services\Timeline\Timeline;
+use Osnova\Services\Timeline\Enums\TimelineSearchOrder;
 
 $timeline = new Timeline(new ApiProvider());
 
-$entries = $timeline->getTimelineSearchResults('навальный', 'relevant', 1);
+$entries = $timeline->getTimelineSearchResults('навальный', TimelineSearchOrder::RELEVANT, 1);
 ```
 
 ### Получение ленты записей из подсайта {#subsite-timeline}
@@ -139,6 +144,20 @@ $timeline = new Timeline(new ApiProvider());
 $subsite = new Subsite(['id' => 1]);
 
 $entries = $timeline->getTimeline($subsite, new TimelineRequest());
+```
+
+### Получение ленты новостей {#news-timeline}
+
+```php
+<?php
+
+use Osnova\Api\ApiProvider;
+use Osnova\Services\Timeline\Timeline;
+use Osnova\Services\Timeline\Requests\TimelineRequest;
+
+$timeline = new Timeline(new ApiProvider());
+
+$entries = $timeline->getNewsTimeline(new TimelineRequest());
 ```
 
 ### Получение записи по ID {#entry-by-id}
@@ -175,7 +194,6 @@ $category = new TimelineCategory('gamedev');
 $request = new TimelineRequest();
 
 $entries = $tj->getTimelineEntries($category, $request);
-$service = $tj->getTimelineService();
 ```
 
 #### Поиск записей {#resource-search}
@@ -189,6 +207,20 @@ use Osnova\TJournal;
 $tj = new TJournal(new ApiProvider());
 
 $entries = $tj->getTimelineSearchResults('навальный', 'relevant', 1);
+```
+
+#### Получение ленты новостей из экземпляра сайта {#resource-news-timeline}
+
+```php
+<?php
+
+use Osnova\Api\ApiProvider;
+use Osnova\Services\Timeline\Requests\TimelineRequest;
+use Osnova\TJournal;
+
+$tj = new TJournal(new ApiProvider());
+
+$entries = $tj->getNewsTimeline(new TimelineRequest());
 ```
 
 #### Получение записи из экземпляра сайта {#entry-by-id-from-resource}

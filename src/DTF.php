@@ -2,13 +2,17 @@
 
 namespace Osnova;
 
+use Osnova\Api\OsnovaResource;
+use Osnova\Services\Comments\Traits\CommentsService;
+use Osnova\Services\Likes\Traits\LikesService;
 use Osnova\Services\Subsites\Traits\SubsitesService;
 use Osnova\Services\Timeline\Traits\TimelineService;
 use Osnova\Services\Users\Traits\UsersService;
 
 class DTF extends OsnovaResource
 {
-    use TimelineService, SubsitesService, UsersService;
+    use TimelineService, CommentsService, LikesService,
+        SubsitesService, UsersService;
 
     /**
      * Get the resource domain.
@@ -17,7 +21,6 @@ class DTF extends OsnovaResource
      */
     public static function domain()
     {
-        //return 'd*f.ru';
         return 'dtf.ru';
     }
 }

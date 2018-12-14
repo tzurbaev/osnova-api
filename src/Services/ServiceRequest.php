@@ -4,9 +4,18 @@ namespace Osnova\Services;
 
 class ServiceRequest
 {
+    /** @var int */
     public $count = 20;
+
+    /** @var int */
     public $offset = 0;
 
+    /**
+     * ServiceRequest constructor.
+     *
+     * @param int $count
+     * @param int $offset
+     */
     public function __construct(int $count = 20, int $offset = 0)
     {
         $this->count = $count;

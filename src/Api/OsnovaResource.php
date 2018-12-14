@@ -1,9 +1,8 @@
 <?php
 
-namespace Osnova;
+namespace Osnova\Api;
 
 use GuzzleHttp\Client;
-use Osnova\Api\ApiProvider;
 
 abstract class OsnovaResource
 {

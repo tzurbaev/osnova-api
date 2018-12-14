@@ -35,17 +35,20 @@
 
 #### Получить список пользователей, поставивших оценку комментарию
 
-Метод `Comment::getLikers()` возвращает массив объектов `Osnova\Services\Timeline\Liker`.
+Метод `Likes::getLikers()` возвращает массив объектов `Osnova\Services\Likes\Liker`.
 
 ```php
 <?php
 
-use Osnova\Services\Timeline\Comment;
+use Osnova\Api\ApiProvider;
+use Osnova\Services\Comments\Comment;
+use Osnova\Services\Likes\Likes;
 
 /** @var Comment $comment */
-$likers = $comment->getLikers();
+$likes = new Likes(new ApiProvider());
+$likers = $likes->getLikers($comment);
 
 foreach ($likers as $liker) {
-    echo 'User '.$liker->getName().' '.($liker->liked() ? 'up' : 'down').'voted'."\n";
+    echo 'User '.$liker->getName().' '.($liker->isLiked() ? 'up' : 'down').'voted'."\n";
 }
 ```

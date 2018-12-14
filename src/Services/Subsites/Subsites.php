@@ -3,7 +3,7 @@
 namespace Osnova\Services\Subsites;
 
 use GuzzleHttp\Exception\RequestException;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 use Osnova\Services\AbstractService;
 
 class Subsites extends AbstractService

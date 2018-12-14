@@ -2,12 +2,12 @@
 
 namespace Osnova\Services\Timeline\Owners;
 
-use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequest;
+use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequestInterface;
 use Osnova\Services\Timeline\Interfaces\TimelineOwnerInterface;
 use Osnova\Services\Timeline\Requests\TimelineHashtagRequest;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 
-class TimelineHashtag implements TimelineOwnerInterface, ModifiesTimelineRequest
+class TimelineHashtag implements TimelineOwnerInterface, ModifiesTimelineRequestInterface
 {
     /** @var string */
     protected $hashtag;

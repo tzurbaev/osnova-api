@@ -12,7 +12,7 @@ use Osnova\Services\Timeline\Timeline;
 use Osnova\Tests\Fakes\FakeResponse;
 use Osnova\Tests\TestCase;
 
-class TimelineServiceTest extends TestCase
+class TimelineTest extends TestCase
 {
     /**
      * @param string $name

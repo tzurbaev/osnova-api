@@ -2,24 +2,14 @@
 
 namespace Osnova\Services\Users;
 
-use GuzzleHttp\Exception\RequestException;
-use Osnova\Services\ServiceEntity;
+use Osnova\Services\Comments\Interfaces\HasCommentsListInterface;
 use Osnova\Services\ServiceRequest;
-use Osnova\Services\Timeline\Comment;
-use Osnova\Services\Timeline\Entry;
+use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequestInterface;
+use Osnova\Services\Timeline\Interfaces\TimelineOwnerInterface;
+use Osnova\Services\Timeline\Requests\TimelineRequest;
 
-class User extends ServiceEntity
+class User extends AbstractUser implements TimelineOwnerInterface, ModifiesTimelineRequestInterface, HasCommentsListInterface
 {
-    /**
-     * Get user ID.
-     *
-     * @return int|null
-     */
-    public function getId()
-    {
-        return $this->getData('id');
-    }
-
     /**
      * Get user hash
      *
@@ -28,46 +18,6 @@ class User extends ServiceEntity
     public function getHash()
     {
         return $this->getData('user_hash');
-    }
-
-    /**
-     * Get user name.
-     *
-     * @return string|null
-     */
-    public function getName()
-    {
-        return $this->getData('name');
-    }
-
-    /**
-     * Get avatar URL.
-     *
-     * @return string|null
-     */
-    public function getAvatarUrl()
-    {
-        return $this->getData('avatar_url');
-    }
-
-    /**
-     * Get user URL.
-     *
-     * @return string|null
-     */
-    public function getUrl()
-    {
-        return $this->getData('url');
-    }
-
-    /**
-     * Get karma value.
-     *
-     * @return int|null
-     */
-    public function getKarma()
-    {
-        return $this->getData('karma');
     }
 
     /**
@@ -101,16 +51,6 @@ class User extends ServiceEntity
     }
 
     /**
-     * Get registration date.
-     *
-     * @return \DateTimeImmutable
-     */
-    public function getCreatedAtDate()
-    {
-        return new \DateTimeImmutable($this->getData('created'), 'Europe/Moscow');
-    }
-
-    /**
      * Get internal API URL.
      *
      * @param string $path = ''
@@ -123,52 +63,36 @@ class User extends ServiceEntity
     }
 
     /**
-     * Get user's entries list.
+     * Get the timeline URL prefix.
      *
-     * @param ServiceRequest $request
-     *
-     * @return array|Entry[]
+     * @return string
      */
-    public function getEntries(ServiceRequest $request)
+    public function getTimelineUrlPrefix()
     {
-        try {
-            $response = $this->getApiProvider()->getClient()->request('GET', $this->apiUrl('entries'), [
-                'query' => $request->getParams(),
-            ]);
-
-            return $this->getEntitiesBuilder(Entry::class)
-                ->fromResponse($response)
-                ->with($this->getApiProvider(), $this->getOsnovaResource())
-                ->collection();
-        } catch (RequestException $e) {
-            //
-        }
-
-        return [];
+        return $this->apiUrl('entries');
     }
 
     /**
-     * Get user's comments list.
+     * Modify given timeline request.
+     *
+     * @param TimelineRequest $request
+     *
+     * @return TimelineRequest
+     */
+    public function modifyTimelineRequest($request)
+    {
+        return $request->withoutSorting();
+    }
+
+    /**
+     * Get the comments URL prefix.
      *
      * @param ServiceRequest $request
      *
-     * @return array|Comment[]
+     * @return string
      */
-    public function getComments(ServiceRequest $request)
+    public function getCommentsUrl($request)
     {
-        try {
-            $response = $this->getApiProvider()->getClient()->request('GET', $this->apiUrl('comments'), [
-                'query' => $request->getParams(),
-            ]);
-
-            return $this->getEntitiesBuilder(Comment::class)
-                ->fromResponse($response)
-                ->with($this->getApiProvider(), $this->getOsnovaResource())
-                ->collection();
-        } catch (RequestException $e) {
-            //
-        }
-
-        return [];
+        return $this->apiUrl('comments');
     }
 }

@@ -56,30 +56,34 @@
 
 #### Список популярных записей для текущей записи {#api-popular-entries}
 
-Метод `Entry::getPopularEntries()` позволяет получить список популярных записей
-для текущей записи.
+С помощью метода `Timeline::getPopularEntries` сервиса [ленты записей](timeline.md)
+можно получить список популярных записей для конкретной записи.
 
 ```php
 <?php
 
-use Osnova\Services\Timeline\Entry;
+use Osnova\TJournal;
+use Osnova\Services\Entries\Entry;
 
+/** @var TJournal $tjournal */
 /** @var Entry $entry */
-$popularEntries = $entry->getPopularEntries();
+$popularEntries = $tjournal->getPopularEntries($entry);
 ```
 
 #### Список комментариев {#api-comments-list}
 
-Метод `Entry::getComments()` позволяет получить список [комментариев](comment.md)
-текущей записи.
+С помощью сервиса комментариев (`Comments`) можно получить список [комментариев](comment.md) для конкретной записи.
 
 ```php
 <?php
 
-use Osnova\Services\Timeline\Entry;
+use Osnova\TJournal;
+use Osnova\Services\Entries\Entry;
 
+/** @var TJournal $tjournal */
 /** @var Entry $entry */
-$comments = $entry->getComments('recent');
+
+$comments = $tjournal->getComments($entry);
 ```
 
 [< К ленте записей](timeline.md) | [< К оглавлению](readme.md)

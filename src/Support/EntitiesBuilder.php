@@ -3,7 +3,7 @@
 namespace Osnova\Support;
 
 use Osnova\Api\ApiProvider;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 use Psr\Http\Message\ResponseInterface;
 
 class EntitiesBuilder
@@ -59,11 +59,19 @@ class EntitiesBuilder
 
     public function item()
     {
+        if (empty($this->data)) {
+            return;
+        }
+
         return new $this->class($this->data, $this->apiProvider, $this->resource);
     }
 
     public function collection()
     {
+        if (empty($this->data)) {
+            return [];
+        }
+
         return array_map(function (array $data) {
             return new $this->class($data, $this->apiProvider, $this->resource);
         }, $this->data);

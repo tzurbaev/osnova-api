@@ -1,15 +1,16 @@
 <?php
 
-namespace Osnova\Services\Timeline;
+namespace Osnova\Services\Comments;
 
-use GuzzleHttp\Exception\RequestException;
-use Osnova\Enums\MediaType;
+use Osnova\Services\Entries\Author;
+use Osnova\Services\Likes\Interfaces\ProvidesLikersListInterface;
+use Osnova\Services\Likes\Traits\HasLikes;
+use Osnova\Services\Media\Enums\MediaType;
 use Osnova\Services\Media\Image;
 use Osnova\Services\Media\Video;
 use Osnova\Services\ServiceEntity;
-use Osnova\Services\Timeline\Traits\HasLikes;
 
-class Comment extends ServiceEntity
+class Comment extends ServiceEntity implements ProvidesLikersListInterface
 {
     use HasLikes;
 
@@ -40,7 +41,7 @@ class Comment extends ServiceEntity
      */
     public function getDate()
     {
-        return new \DateTimeImmutable($this->getData('date'), 'Europe/Moscow');
+        return new \DateTimeImmutable($this->getData('dateRFC'));
     }
 
     /**
@@ -117,7 +118,7 @@ class Comment extends ServiceEntity
      */
     public function isPinned()
     {
-        return $this->getData('isPinned') === true;
+        return $this->getData('is_pinned') === true;
     }
 
     /**
@@ -141,22 +142,12 @@ class Comment extends ServiceEntity
     }
 
     /**
-     * Get comment likers list.
+     * Get the likers list URL.
      *
-     * @return array|Liker[]
+     * @return string
      */
-    public function getLikers()
+    public function getLikersListUrl()
     {
-        try {
-            $response = $this->getApiProvider()->getClient()->request('GET', 'comment/likers/'.$this->getId());
-
-            return $this->getEntitiesBuilder(Liker::class)
-                ->fromResponse($response)
-                ->collection();
-        } catch (RequestException $e) {
-            //
-        }
-
-        return [];
+        return 'comment/likers/'.$this->getId();
     }
 }

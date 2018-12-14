@@ -2,12 +2,12 @@
 
 namespace Osnova\Services\Timeline\Owners;
 
-use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequest;
+use Osnova\Services\Timeline\Interfaces\ModifiesTimelineRequestInterface;
 use Osnova\Services\Timeline\Interfaces\TimelineOwnerInterface;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 use Osnova\Services\Timeline\Requests\TimelineSearchRequest;
 
-class TimelineSearch implements TimelineOwnerInterface, ModifiesTimelineRequest
+class TimelineSearch implements TimelineOwnerInterface, ModifiesTimelineRequestInterface
 {
     /** @var string */
     protected $query;

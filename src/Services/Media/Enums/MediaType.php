@@ -1,6 +1,6 @@
 <?php
 
-namespace Osnova\Enums;
+namespace Osnova\Services\Media\Enums;
 
 class MediaType
 {

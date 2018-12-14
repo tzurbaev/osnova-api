@@ -3,7 +3,7 @@
 namespace Osnova\Support\Traits;
 
 use Osnova\Exceptions\OsnovaResourceDoesNotExistsException;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 
 trait HasOsnovaResource
 {

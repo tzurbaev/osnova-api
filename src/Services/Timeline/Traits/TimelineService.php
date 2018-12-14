@@ -3,7 +3,7 @@
 namespace Osnova\Services\Timeline\Traits;
 
 use Osnova\Api\ApiProvider;
-use Osnova\Services\Timeline\Entry;
+use Osnova\Services\Entries\Entry;
 use Osnova\Services\Timeline\Interfaces\TimelineOwnerInterface;
 use Osnova\Services\Timeline\Requests\TimelineRequest;
 use Osnova\Services\Timeline\Timeline;
@@ -55,6 +55,21 @@ trait TimelineService
     }
 
     /**
+     * Get news timeline.
+     * This is a proxy method for Timeline::getNewsTimeline().
+     *
+     * @param TimelineRequest $request = null Timeline request parameters.
+     *
+     * @see Timeline::getNewsTimeline()
+     *
+     * @return array|Entry[]
+     */
+    public function getNewsTimeline(TimelineRequest $request = null)
+    {
+        return $this->getTimelineService()->getNewsTimeline($request, $this);
+    }
+
+    /**
      * Get timeline search results.
      * This is a proxy method for Timeline::getTimelineSearchResults().
      *
@@ -84,5 +99,33 @@ trait TimelineService
     public function getTimelineEntry($id)
     {
         return $this->getTimelineService()->getTimelineEntry($id, $this);
+    }
+
+    /**
+     * Get pinned timeline entry.
+     * This is a proxy method for Timeline::getPinnedEntry().
+     *
+     * @see Timeline::getPinnedEntry()
+     *
+     * @return Entry|null
+     */
+    public function getPinnedEntry()
+    {
+        return $this->getTimelineService()->getPinnedEntry($this);
+    }
+
+    /**
+     * Get the popular entries list for the given entry.
+     * This is a proxy method for Timeline::getPopularEntries().
+     *
+     * @param Entry $entry
+     *
+     * @see Timeline::getPopularEntries()
+     *
+     * @return array|Entry[]
+     */
+    public function getPopularEntries(Entry $entry)
+    {
+        return $this->getTimelineService()->getPopularEntries($entry, $this);
     }
 }

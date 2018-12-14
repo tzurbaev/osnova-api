@@ -3,7 +3,7 @@
 namespace Osnova\Services\Users;
 
 use GuzzleHttp\Exception\RequestException;
-use Osnova\OsnovaResource;
+use Osnova\Api\OsnovaResource;
 use Osnova\Services\AbstractService;
 
 class Users extends AbstractService

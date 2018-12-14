@@ -1,6 +1,6 @@
 <?php
 
-namespace Osnova\Services\Timeline\Traits;
+namespace Osnova\Services\Likes\Traits;
 
 trait HasLikes
 {
